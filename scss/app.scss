@@ -61,6 +61,19 @@ a:hover, a:active {
  text-decoration: none;
  border-bottom: dotted 1px rgba(139,35,50,0.6);}
 
-#head-wrapper {width: 100%; background-color: $primary-color; padding: 0.5em; margin-bottom: 1rem;}
+#head-wrapper {width: 100%; background-color: $primary-color; padding: 0.5em; text-align: center; margin-bottom: 1rem;}
 
 #head-wrapper a {text-decoration: none; color: #FFF; border-bottom: none;}
+
+// Typography
+// - - - - - - - - - - - - - - - - - - - - - - - - -
+h1,.alpha   { $h1-font-size: rem-calc(44); }
+h2,.beta    { $h2-font-size: rem-calc(37); }
+h3,.gamma   { $h3-font-size: rem-calc(27); }
+h4,.delta   { $h4-font-size: rem-calc(23); }
+h5,.epsilon { $h5-font-size: rem-calc(18); }
+h6,.zeta    { $h6-font-size: 1rem; }
+
+// Forms
+// - - - - - - - - - - - - - - - - - - - - - - - - -
+.label {font-family: $font-family-serif;}
