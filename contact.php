@@ -1,4 +1,19 @@
-<!-- @include ../partials/_head.kit -->
+<div id="head-wrapper">
+ <h2 class="epsilon"><a href="">Visit www.eureka.edu</a></h2>
+</div>
+
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Welcome to the Ronald W. Reagan Society of Eureka College</title>
+    <link rel="stylesheet" href="css/app.css" />
+    <script src="bower_components/modernizr/modernizr.js"></script>
+    <script src="//use.typekit.net/rfb2fjs.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
+  </head>
+  <body>
 <?php
 if($_POST["message"]) {
     mail("web@eureka.edu", "Form to email message", $_POST["message"], "From: [senderEmail]");
@@ -191,4 +206,8 @@ if($_POST["message"]) {
         <a href="#" class="close-reveal-modal">×</a>
       </div>
 
-<!-- @import ../partials/_footer.kit -->
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="bower_components/foundation/js/foundation.min.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>

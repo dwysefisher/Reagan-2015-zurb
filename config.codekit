@@ -3609,7 +3609,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/contact.kit",
-		"outputAbbreviatedPath": "\/contact.html",
+		"outputAbbreviatedPath": "\/contact.php",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1
 		},
