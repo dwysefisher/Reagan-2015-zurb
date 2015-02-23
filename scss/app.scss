@@ -73,10 +73,7 @@ p a:hover, a:active {
 .logo {
  background: url(../img/RRS-logo-web-banner.svg) no-repeat;
  text-indent: -99999px;
- margin-left: 1em !important;
  margin-bottom: 1rem;
- height: 150px;
- width: 150px;
 }
 
 .ec-logo-wrapper {
@@ -101,7 +98,7 @@ p a:hover, a:active {
 // Navigation
 // - - - - - - - - - - - - - - - - - - - - - - - - -
 .top-bar {
- margin-bottom: 1rem;
+ margin-bottom: 5rem;
 }
 
 // Typography
@@ -135,5 +132,11 @@ h6,.zeta    { $h6-font-size: 1rem; }
         top: 5px;
         margin-left: -46px;
         z-index: 2;
+    }
+
+    .logo {
+     margin-left: 3em !important;
+     height: 200px;
+     width: 200px;
     }
 }
