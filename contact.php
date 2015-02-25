@@ -22,28 +22,29 @@
  </div>
 </div>
 
-<nav class="top-bar" data-topbar role="navigation">
+<div class="contain-to-grid">
+
   <ul class="title-area">
     <li class="name">
       <h1 class="logo"><a href="#">Ronald W. Reagan Society of Eureka College</a></h1>
     </li>
-    <li class="toggle-topbar menu-icon"><a href="#"></a></li>
+    <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
   </ul>
 
+  <nav class="top-bar" data-topbar role="navigation">
   <section class="top-bar-section">
-    <!-- Right Nav Section -->
-    <ul class="right">
-      <li class="active"><a href="#">Right Button Active</a></li>
-      <li class="has-dropdown">
-        <a href="#">Right Button Dropdown</a>
-        <ul class="dropdown">
-          <li><a href="#">First link in dropdown</a></li>
-          <li class="active"><a href="#">Active link in dropdown</a></li>
-        </ul>
-      </li>
+    <ul>
+      <li><a href="#">Who we are</a></li>
+      <li class="divider"></li>
+      <li><a href="#">What we do</a></li>
+      <li><a href="#">Visit campus</a></li>
+      <li><a href="#">Events Calendar</a></li>
+      <li><a href="#">Eureka College</a></li>
+      <li><a href="#">Contact</a></li>
     </ul>
   </section>
 </nav>
+</div>
 </header>
 <?php
 if($_POST["message"]) {
@@ -236,6 +237,14 @@ if($_POST["message"]) {
 
         <a href="#" class="close-reveal-modal">×</a>
       </div>
+
+<footer>
+ <div class="row">
+   <div class="centered columns">
+    <p>&copy; Ronald W. Reagan Society of Eureka College</p>
+   </div>
+ </div>
+</footer>
 
     <script src="bower_components/jquery/dist/jquery.min.js"></script>
     <script src="bower_components/foundation/js/foundation.min.js"></script>
