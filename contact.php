@@ -32,7 +32,7 @@
     <div class="right medium-4 columns">
         <a href="#" class="button radius" role="button">Give today</a>
         <a href="#" class="button radius" role="button">Sign up</a>
-    </div><!-- end button-group -->
+    </div><!-- end buttons -->
   </div>
 
 </div> <!-- end contain-to-grid -->
@@ -42,7 +42,7 @@
   <nav class="top-bar" data-topbar role="navigation">
    <ul class="title-area">
      <li class="name"></li>
-     <li class="toggle-topbar menu-icon"><a href="#"><span style="color: lime;">Menu</span></a></li>
+     <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
    </ul>
 
    <section class="top-bar-section">
