@@ -4087,6 +4087,7 @@ table {
     top: 50%;
     margin-top: -5px; } }
 
+/*$oil */
 meta.foundation-mq-topbar {
   font-family: "/only screen and (min-width:40.063em)/";
   width: 40.063em; }
@@ -5686,10 +5687,7 @@ p a:hover, a:active {
 #head-wrapper h2 {text-indent: -9999px;}
 
 #head-wrapper a {text-decoration: none; color: #FFF; border-bottom: none;}*/
-.name {
-  padding: 1em auto;
-  height: 300px; }
-
+/*.name {padding: 1em auto; height: 300px; } */
 .logo {
   background: url(../img/RRS-logo-web-banner.svg) no-repeat;
   text-indent: -99999px;
@@ -5702,9 +5700,9 @@ p a:hover, a:active {
   margin-bottom: 2.5rem; }
 
 .ec-logo-wrapper .ec-logo {
+  position: absolute;
   width: 50px;
   height: 50px;
-  position: absolute;
   left: 50%;
   right: 50%;
   top: 3px;
@@ -5714,6 +5712,9 @@ p a:hover, a:active {
 .top-bar {
   margin-bottom: 5rem; }
 
+.divider {
+  border-right: 1px solid lime !important; }
+
 .label {
   font-family: "adelle", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; }
 
@@ -5721,9 +5722,9 @@ p a:hover, a:active {
   .ec-logo-wrapper {
     position: relative; }
   .ec-logo-wrapper .ec-logo {
+    position: absolute;
     width: 50px;
     height: 50px;
-    position: absolute;
     left: 50%;
     right: 50%;
     top: 5px;
