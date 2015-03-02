@@ -105,6 +105,11 @@ p a:hover, a:active {
  background-color: $tertiary-color;
 }
 
+.top-bar .toggle-topbar.menu-icon a {
+  font-family: $font-family-sans-serif;
+  text-transform: uppercase;
+}
+
 .divider {
   border-right: 1px solid $tertiary-color !important;
   }
