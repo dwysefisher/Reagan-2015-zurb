@@ -5714,12 +5714,13 @@ p a:hover, a:active {
   z-index: 2; }
 
 .top-bar {
-  margin-bottom: 5rem; }
+  margin-bottom: 1rem;
+  background-color: #00005c; }
 
 .divider {
-  border-right: 1px solid lime !important; }
+  border-right: 1px solid #00005c !important; }
 
-.button-group .primary {
+.primary {
   margin-bottom: 2em !important;
   background-color: #00005c !important; }
 
@@ -5740,4 +5741,8 @@ p a:hover, a:active {
     z-index: 2; }
   .logo {
     height: 200px;
-    width: 200px; } }
+    width: 200px; }
+  nav.top-bar {
+    text-align: center; }
+  section.top-bar-section {
+    display: inline-block; } }
