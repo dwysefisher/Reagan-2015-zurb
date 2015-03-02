@@ -5691,7 +5691,11 @@ p a:hover, a:active {
 .logo {
   background: url(../img/RRS-logo-web-banner.svg) no-repeat;
   text-indent: -99999px;
-  margin-bottom: 1rem; }
+  margin-left: 1.5em;
+  margin-bottom: 0.5rem;
+  text-align: center;
+  height: 150px;
+  width: 150px; }
 
 .ec-logo-wrapper {
   position: relative;
@@ -5715,9 +5719,10 @@ p a:hover, a:active {
 .divider {
   border-right: 1px solid lime !important; }
 
-/*  .button-group {
-    border-right: 2px solid #990033 !important;
-  }*/
+.button-group .primary {
+  margin-bottom: 2em !important;
+  background-color: #00005c !important; }
+
 .label {
   font-family: "adelle", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; }
 
@@ -5734,6 +5739,5 @@ p a:hover, a:active {
     margin-left: -46px;
     z-index: 2; }
   .logo {
-    margin-left: 3em !important;
     height: 200px;
     width: 200px; } }
