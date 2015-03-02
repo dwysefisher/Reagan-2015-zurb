@@ -68,7 +68,7 @@ p a:hover, a:active {
 
 #head-wrapper a {text-decoration: none; color: #FFF; border-bottom: none;}*/
 
-.name {padding: 1em auto; height: 300px; }
+/*.name {padding: 1em auto; height: 300px; } */
 
 .logo {
  background: url(../img/RRS-logo-web-banner.svg) no-repeat;
@@ -85,10 +85,9 @@ p a:hover, a:active {
 }
 
 .ec-logo-wrapper .ec-logo {
+    position: absolute;
     width: 50px;
     height:  50px;
-
-    position: absolute;
     left: 50%;
     right: 50%;
     top: 3px;
@@ -100,6 +99,14 @@ p a:hover, a:active {
 .top-bar {
  margin-bottom: 5rem;
 }
+
+.divider {
+  border-right: 1px solid lime !important;
+  }
+
+// Background color for the top bar
+$topbar-bg-color: $white !default;
+$topbar-bg: $topbar-bg-color !default;
 
 // Typography
 // - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -123,10 +130,9 @@ h6,.zeta    { $h6-font-size: 1rem; }
     }
 
     .ec-logo-wrapper .ec-logo {
-        width: 50px;
-       height:  50px;
-
         position: absolute;
+        width: 50px;
+        height:  50px;
         left: 50%;
         right: 50%;
         top: 5px;
