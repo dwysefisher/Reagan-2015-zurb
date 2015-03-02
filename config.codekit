@@ -3595,6 +3595,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/img\/RRS-logo-web-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24669,
+		"inputAbbreviatedPath": "\/img\/RRS-logo-web-banner.png",
+		"outputAbbreviatedPath": "\/img\/RRS-logo-web-banner.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/shield-rgb.png": {
 		"fileType": 32768,
 		"ignore": 0,
