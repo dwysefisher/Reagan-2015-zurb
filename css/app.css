@@ -1503,7 +1503,7 @@ button::-moz-focus-inner {
     display: inline-block;
     width: 50%; }
     .button-group.even-2 li > button, .button-group.even-2 li .button {
-      border-left: 1px solid;
+      border-left: 2px solid;
       border-color: rgba(255, 255, 255, 0.5); }
     .button-group.even-2 li:first-child button, .button-group.even-2 li:first-child .button {
       border-left: 0; }
@@ -1514,7 +1514,7 @@ button::-moz-focus-inner {
     display: inline-block;
     width: 33.3333333333%; }
     .button-group.even-3 li > button, .button-group.even-3 li .button {
-      border-left: 1px solid;
+      border-left: 2px solid;
       border-color: rgba(255, 255, 255, 0.5); }
     .button-group.even-3 li:first-child button, .button-group.even-3 li:first-child .button {
       border-left: 0; }
@@ -1525,7 +1525,7 @@ button::-moz-focus-inner {
     display: inline-block;
     width: 25%; }
     .button-group.even-4 li > button, .button-group.even-4 li .button {
-      border-left: 1px solid;
+      border-left: 2px solid;
       border-color: rgba(255, 255, 255, 0.5); }
     .button-group.even-4 li:first-child button, .button-group.even-4 li:first-child .button {
       border-left: 0; }
@@ -1536,7 +1536,7 @@ button::-moz-focus-inner {
     display: inline-block;
     width: 20%; }
     .button-group.even-5 li > button, .button-group.even-5 li .button {
-      border-left: 1px solid;
+      border-left: 2px solid;
       border-color: rgba(255, 255, 255, 0.5); }
     .button-group.even-5 li:first-child button, .button-group.even-5 li:first-child .button {
       border-left: 0; }
@@ -1547,7 +1547,7 @@ button::-moz-focus-inner {
     display: inline-block;
     width: 16.6666666667%; }
     .button-group.even-6 li > button, .button-group.even-6 li .button {
-      border-left: 1px solid;
+      border-left: 2px solid;
       border-color: rgba(255, 255, 255, 0.5); }
     .button-group.even-6 li:first-child button, .button-group.even-6 li:first-child .button {
       border-left: 0; }
@@ -1558,7 +1558,7 @@ button::-moz-focus-inner {
     display: inline-block;
     width: 14.2857142857%; }
     .button-group.even-7 li > button, .button-group.even-7 li .button {
-      border-left: 1px solid;
+      border-left: 2px solid;
       border-color: rgba(255, 255, 255, 0.5); }
     .button-group.even-7 li:first-child button, .button-group.even-7 li:first-child .button {
       border-left: 0; }
@@ -1569,7 +1569,7 @@ button::-moz-focus-inner {
     display: inline-block;
     width: 12.5%; }
     .button-group.even-8 li > button, .button-group.even-8 li .button {
-      border-left: 1px solid;
+      border-left: 2px solid;
       border-color: rgba(255, 255, 255, 0.5); }
     .button-group.even-8 li:first-child button, .button-group.even-8 li:first-child .button {
       border-left: 0; }
@@ -1579,7 +1579,7 @@ button::-moz-focus-inner {
     margin: 0 -2px;
     display: inline-block; }
     .button-group > li > button, .button-group > li .button {
-      border-left: 1px solid;
+      border-left: 2px solid;
       border-color: rgba(255, 255, 255, 0.5); }
     .button-group > li:first-child button, .button-group > li:first-child .button {
       border-left: 0; }
@@ -1590,12 +1590,12 @@ button::-moz-focus-inner {
     margin: 0;
     float: none; }
     .button-group.stack > li > button, .button-group.stack > li .button {
-      border-left: 1px solid;
+      border-left: 2px solid;
       border-color: rgba(255, 255, 255, 0.5); }
     .button-group.stack > li:first-child button, .button-group.stack > li:first-child .button {
       border-left: 0; }
     .button-group.stack > li > button, .button-group.stack > li .button {
-      border-top: 1px solid;
+      border-top: 2px solid;
       border-color: rgba(255, 255, 255, 0.5);
       border-left-width: 0;
       margin: 0;
@@ -1608,7 +1608,7 @@ button::-moz-focus-inner {
     margin: 0 -2px;
     display: inline-block; }
     .button-group.stack-for-small > li > button, .button-group.stack-for-small > li .button {
-      border-left: 1px solid;
+      border-left: 2px solid;
       border-color: rgba(255, 255, 255, 0.5); }
     .button-group.stack-for-small > li:first-child button, .button-group.stack-for-small > li:first-child .button {
       border-left: 0; }
@@ -1619,12 +1619,12 @@ button::-moz-focus-inner {
         display: block;
         margin: 0; }
         .button-group.stack-for-small > li > button, .button-group.stack-for-small > li .button {
-          border-left: 1px solid;
+          border-left: 2px solid;
           border-color: rgba(255, 255, 255, 0.5); }
         .button-group.stack-for-small > li:first-child button, .button-group.stack-for-small > li:first-child .button {
           border-left: 0; }
         .button-group.stack-for-small > li > button, .button-group.stack-for-small > li .button {
-          border-top: 1px solid;
+          border-top: 2px solid;
           border-color: rgba(255, 255, 255, 0.5);
           border-left-width: 0;
           margin: 0;
@@ -1637,7 +1637,7 @@ button::-moz-focus-inner {
     margin: 0 -2px;
     display: inline-block; }
     .button-group.radius > * > button, .button-group.radius > * .button {
-      border-left: 1px solid;
+      border-left: 2px solid;
       border-color: rgba(255, 255, 255, 0.5); }
     .button-group.radius > *:first-child button, .button-group.radius > *:first-child .button {
       border-left: 0; }
@@ -1659,12 +1659,12 @@ button::-moz-focus-inner {
     display: block;
     margin: 0; }
     .button-group.radius.stack > * > button, .button-group.radius.stack > * .button {
-      border-left: 1px solid;
+      border-left: 2px solid;
       border-color: rgba(255, 255, 255, 0.5); }
     .button-group.radius.stack > *:first-child button, .button-group.radius.stack > *:first-child .button {
       border-left: 0; }
     .button-group.radius.stack > * > button, .button-group.radius.stack > * .button {
-      border-top: 1px solid;
+      border-top: 2px solid;
       border-color: rgba(255, 255, 255, 0.5);
       border-left-width: 0;
       margin: 0;
@@ -1690,7 +1690,7 @@ button::-moz-focus-inner {
       margin: 0 -2px;
       display: inline-block; }
       .button-group.radius.stack-for-small > * > button, .button-group.radius.stack-for-small > * .button {
-        border-left: 1px solid;
+        border-left: 2px solid;
         border-color: rgba(255, 255, 255, 0.5); }
       .button-group.radius.stack-for-small > *:first-child button, .button-group.radius.stack-for-small > *:first-child .button {
         border-left: 0; }
@@ -1713,12 +1713,12 @@ button::-moz-focus-inner {
       display: block;
       margin: 0; }
       .button-group.radius.stack-for-small > * > button, .button-group.radius.stack-for-small > * .button {
-        border-left: 1px solid;
+        border-left: 2px solid;
         border-color: rgba(255, 255, 255, 0.5); }
       .button-group.radius.stack-for-small > *:first-child button, .button-group.radius.stack-for-small > *:first-child .button {
         border-left: 0; }
       .button-group.radius.stack-for-small > * > button, .button-group.radius.stack-for-small > * .button {
-        border-top: 1px solid;
+        border-top: 2px solid;
         border-color: rgba(255, 255, 255, 0.5);
         border-left-width: 0;
         margin: 0;
@@ -1743,7 +1743,7 @@ button::-moz-focus-inner {
     margin: 0 -2px;
     display: inline-block; }
     .button-group.round > * > button, .button-group.round > * .button {
-      border-left: 1px solid;
+      border-left: 2px solid;
       border-color: rgba(255, 255, 255, 0.5); }
     .button-group.round > *:first-child button, .button-group.round > *:first-child .button {
       border-left: 0; }
@@ -1765,12 +1765,12 @@ button::-moz-focus-inner {
     display: block;
     margin: 0; }
     .button-group.round.stack > * > button, .button-group.round.stack > * .button {
-      border-left: 1px solid;
+      border-left: 2px solid;
       border-color: rgba(255, 255, 255, 0.5); }
     .button-group.round.stack > *:first-child button, .button-group.round.stack > *:first-child .button {
       border-left: 0; }
     .button-group.round.stack > * > button, .button-group.round.stack > * .button {
-      border-top: 1px solid;
+      border-top: 2px solid;
       border-color: rgba(255, 255, 255, 0.5);
       border-left-width: 0;
       margin: 0;
@@ -1796,7 +1796,7 @@ button::-moz-focus-inner {
       margin: 0 -2px;
       display: inline-block; }
       .button-group.round.stack-for-small > * > button, .button-group.round.stack-for-small > * .button {
-        border-left: 1px solid;
+        border-left: 2px solid;
         border-color: rgba(255, 255, 255, 0.5); }
       .button-group.round.stack-for-small > *:first-child button, .button-group.round.stack-for-small > *:first-child .button {
         border-left: 0; }
@@ -1819,12 +1819,12 @@ button::-moz-focus-inner {
       display: block;
       margin: 0; }
       .button-group.round.stack-for-small > * > button, .button-group.round.stack-for-small > * .button {
-        border-left: 1px solid;
+        border-left: 2px solid;
         border-color: rgba(255, 255, 255, 0.5); }
       .button-group.round.stack-for-small > *:first-child button, .button-group.round.stack-for-small > *:first-child .button {
         border-left: 0; }
       .button-group.round.stack-for-small > * > button, .button-group.round.stack-for-small > * .button {
-        border-top: 1px solid;
+        border-top: 2px solid;
         border-color: rgba(255, 255, 255, 0.5);
         border-left-width: 0;
         margin: 0;
@@ -5715,6 +5715,9 @@ p a:hover, a:active {
 .divider {
   border-right: 1px solid lime !important; }
 
+/*  .button-group {
+    border-right: 2px solid #990033 !important;
+  }*/
 .label {
   font-family: "adelle", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; }
 

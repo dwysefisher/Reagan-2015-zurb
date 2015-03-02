@@ -14,26 +14,26 @@
 
    <header>
  <a href="index.html"></a>
- <div id="head-wrapper">
+ <!-- <div id="head-wrapper"> -->
   <div class="ec-logo-wrapper">
    <div class="ec-logo">
     <a href="http://www.eureka.edu"><img src="../img/shield-rgb.png" alt="Eureka College logo" title="Visit www.eureka.edu"></a>
      <!--<object type="image/svg+xml" data="../img/shield-rgb.png" width="100" height="100"></object>-->
    </div>
   </div>
- </div>
+ <!-- </div> -->
 
 <div class="contain-to-grid">
 
   <div class="row">
-    <div class="large-2 columns">
+    <div class="large-8 small-6 small-centered columns">
       <h1 class="logo"><a href="#">Ronald W. Reagan Society of Eureka College</a></h1>
     </div>
-    <div class="">
-      <ul class="right button-group">
-        <li a href="" class="button">Give today</li>
+    <div class="large-4 small-6 small-centered  columns">
+      <ul class="stack-for-small button-group radius">
+        <li a href="#" class="button">Give today</li>
         <li class="divider"></li>
-        <li a href="" class="button">Sign up</li>
+        <li a href="#" class="button">Sign up</li>
       </ul>
     </div><!-- end button-group -->
   </div>
