@@ -5692,13 +5692,13 @@ p a:hover, a:active {
 .ec-logo-wrapper {
   position: relative;
   background-color: #8b2332;
-  height: 2.5rem;
-  margin-bottom: 2.5rem; }
+  height: 2rem;
+  margin-bottom: 1rem; }
 
 .ec-logo-wrapper .ec-logo {
   position: absolute;
-  width: 50px;
-  height: 50px;
+  width: 40px;
+  height: 40px;
   left: 50%;
   right: 50%;
   top: 3px;
@@ -5752,13 +5752,15 @@ p a:hover, a:active {
     height: 50px;
     left: 50%;
     right: 50%;
-    top: 5px;
+    top: 1px;
     margin-left: -46px;
     z-index: 2; }
   #logo img {
     max-width: 100%;
     width: 400px;
     margin-bottom: 0.5rem; }
+  .primary-buttons {
+    margin-top: 2rem; }
   nav.top-bar {
     text-align: center; }
   section.top-bar-section {
