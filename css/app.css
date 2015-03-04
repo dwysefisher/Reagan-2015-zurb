@@ -6295,4 +6295,8 @@ figure {
     text-align: center; }
 
   section.top-bar-section {
-    display: inline-block; } }
+    display: inline-block; }
+
+  .navbar li a {
+    text-transform: uppercase !important;
+    margin-right: 0.5rem; } }
