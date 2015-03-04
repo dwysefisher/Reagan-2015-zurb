@@ -6240,7 +6240,14 @@ figure {
 
 #primary-image {
   max-width: 100%;
-  overflow: hidden !important; }
+  overflow: hidden; }
+
+.primary-caption {
+  color: #fff;
+  margin-top: -8rem;
+  padding: 1rem;
+  font-size: 90%;
+  line-height: 120%; }
 
 @media only screen and (min-width: 40.063em) {
   .ec-logo-wrapper {
