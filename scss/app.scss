@@ -151,6 +151,19 @@ h6,.zeta    { $h6-font-size: 1rem; }
 // - - - - - - - - - - - - - - - - - - - - - - - - -
 .label {font-family: $font-family-sans-serif;}
 
+// Images
+// - - - - - - - - - - - - - - - - - - - - - - - - -
+
+figure {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+#primary-image {
+  max-width: 100%;
+  overflow: hidden !important;
+}
+
 // Media Queries
 // - - - - - - - - - - - - - - - - - - - - - - - - -
 @media only screen and (min-width: 40.063em) {
