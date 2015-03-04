@@ -22,20 +22,19 @@
    </div>
   </div>
  <!-- </div> -->
-
-<div class="contain-to-grid">
+<!-- <div class="contain-to-grid">-->
 
   <div class="row">
-    <div class="medium-2 columns">
-      <a href="#"><h1 class="logo">Ronald W. Reagan Society of Eureka College</h1></a>
+    <div class="small-8 small-centered medium-uncentered medium-4 columns">
+      <a href="#" id="logo"><img src="../img/RRS-logo-web-banner.png" alt="Ronald W. Reagan Society of Eureka College" title="Ronald W. Reagan Society of Eureka College"></a>
     </div>
-    <div class="right medium-4 columns">
+    <div class="small-centered medium-uncentered medium-4 right columns">
         <a href="#" class="button radius" role="button">Give today</a>
         <a href="#" class="button radius" role="button">Sign up</a>
     </div><!-- end buttons -->
   </div>
 
-</div> <!-- end contain-to-grid -->
+<!-- </div> <!-- end contain-to-grid -->
 
 <!-- <div class="row"> -->
 <div class="contain-to-grid">
