@@ -3595,6 +3595,28 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/img\/craig-barbara-barrett.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 67565,
+		"inputAbbreviatedPath": "\/img\/craig-barbara-barrett.jpg",
+		"outputAbbreviatedPath": "\/img\/craig-barbara-barrett.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/george-shultz-speaking.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56981,
+		"inputAbbreviatedPath": "\/img\/george-shultz-speaking.jpg",
+		"outputAbbreviatedPath": "\/img\/george-shultz-speaking.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/RRS-logo-web-banner.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -3602,6 +3624,17 @@
 		"initialSize": 24669,
 		"inputAbbreviatedPath": "\/img\/RRS-logo-web-banner.png",
 		"outputAbbreviatedPath": "\/img\/RRS-logo-web-banner.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/run-with-reagan.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76360,
+		"inputAbbreviatedPath": "\/img\/run-with-reagan.jpg",
+		"outputAbbreviatedPath": "\/img\/run-with-reagan.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3765,7 +3798,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "DT",
+"lastSavedByUser": "Dustin Wyse-Fisher",
 "manualImportLinks": {
 	},
 "projectAttributes": {
