@@ -6227,14 +6227,24 @@ p a:hover, a:active {
 .divider {
   border-right: 1px solid #00005c !important; }
 
-.primary {
+/*.primary {
   margin-bottom: 2em !important;
-  background-color: #00005c !important; }
-
-.main-image-caption {
+  background-color: $tertiary-color !important;
+  }*/
+.side-image-caption {
   padding: 1rem;
   background-color: #DDDDDD;
   margin-top: 0; }
+
+.primary-image h3 {
+  bottom: 6rem;
+  padding: 0 1rem; }
+
+.primary-image h4 {
+  bottom: 0.5rem;
+  padding: 0 1rem;
+  font-size: 0.875rem;
+  line-height: 130%; }
 
 .label {
   font-family: "adelle", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; }
@@ -6247,13 +6257,6 @@ figure {
   max-width: 100%;
   overflow: hidden;
   /*border-bottom: 2px solid $neutral-color;*/ }
-
-.primary-caption {
-  color: #fff;
-  margin-top: -8rem;
-  padding: 1rem;
-  font-size: 90%;
-  line-height: 120%; }
 
 @media only screen and (min-width: 40.063em) {
   .ec-logo-wrapper {
@@ -6294,6 +6297,20 @@ figure {
 
   .bottom-image:nth-last-child(2) {
     border-right: 0px; }
+
+  .primary-image h3 {
+    position: absolute;
+    bottom: 11rem;
+    color: #fff;
+    padding: 0 1rem; }
+
+  .primary-image h4 {
+    color: #fff;
+    position: absolute;
+    bottom: 4rem;
+    padding: 0 1rem;
+    font-size: 1.375rem;
+    line-height: 150%; }
 
   nav.top-bar {
     text-align: center; }
