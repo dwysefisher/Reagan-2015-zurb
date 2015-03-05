@@ -129,10 +129,10 @@ p a:hover, a:active {
   border-right: 1px solid $tertiary-color !important;
   }
 
-.primary {
+/*.primary {
   margin-bottom: 2em !important;
   background-color: $tertiary-color !important;
-  }
+  }*/
 
 // Background color for the top bar
 $topbar-bg-color: $tertiary-color !default;
@@ -148,11 +148,24 @@ h5,
 .epsilon { $h5-font-size: rem-calc(18); }
 h6,.zeta    { $h6-font-size: 1rem; }
 
-.main-image-caption {
+.side-image-caption {
   padding:1rem;
   background-color: $gainsboro;
   margin-top: 0;
 }
+
+.primary-image h3 {
+  bottom: 6rem;
+  padding:0 1rem; 
+}
+
+.primary-image h4 {
+  bottom:0.5rem;
+  padding: 0 1rem;
+  font-size: 0.875rem;
+  line-height: 130%;
+}
+
 
 // Forms
 // - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -172,13 +185,6 @@ figure {
   /*border-bottom: 2px solid $neutral-color;*/
 }
 
-.primary-caption {
-  color: #fff;
-  margin-top: -8rem;
-  padding: 1rem;
-  font-size: 90%;
-  line-height: 120%;
-}
 
 // Media Queries
 // - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -235,7 +241,25 @@ figure {
 
 // Typography
 // - - - - - - - - - - - - - - - - - - - - - - - - -
+.primary-image h3 {
+  position: absolute;
+  bottom: 11rem;
+  color: #fff;
+  padding:0 1rem; 
+}
 
+.primary-image h4 {
+  color: #fff;
+  position: absolute;
+  bottom: 4rem;
+  padding: 0 1rem;
+  font-size: 1.375rem;
+  line-height: 150%;
+}
+
+.bottom-image figure {
+
+}
 
 // Navigation
 // - - - - - - - - - - - - - - - - - - - - - - - - -
