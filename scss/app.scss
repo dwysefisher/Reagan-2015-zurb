@@ -201,10 +201,10 @@ p a:hover, a:active {
 // Lists
 // - - - - - - - - - - - - - - - - - - - - - - - - -
 [class*="block-grid-"] {
-  margin: 1rem -0rem; }
+  margin: 1rem 0rem; }
 
 [class*="block-grid-"]:first-child {
-  margin-top: 10rem; }
+  margin-top: 0.5rem; }
 
 
 // Typography
