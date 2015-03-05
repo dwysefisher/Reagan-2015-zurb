@@ -254,16 +254,44 @@ if($_POST["message"]) {
         <a href="#" class="close-reveal-modal">×</a>
       </div>
 
-<footer>
- <div class="row">
-   <div class="centered columns">
-    <p>&copy; Ronald W. Reagan Society of Eureka College</p>
-   </div>
- </div>
+<!-- Footer -->
+<footer id="footer">
+  <div class="row">
+      <hr />
+      <div class="small-12 columns">
+        <div class="row">
+          <div class="small-10 large-5 columns">
+            <a href="#" id=""><img src="img/RRS-logo-web-banner.png" alt="Ronald W. Reagan Society of Eureka College" title="Ronald W. Reagan Society of Eureka College"></a>
+            <p>This is a Sticky Footer.<br />It will stick to the bottom of the page onload().<br />It will also re-stick after a window resize.</p>
+            <p>&copy; 2015 Ronald W. Reagan Society of Eureka College | <a href="#">Privacy Policy</a></p>
+          </div>
+          <div class="small-10 large-4 columns">
+             <ul class="inline-list">
+               <li><a href="#">Reagan Leadership Program</a></li>
+               <li><a href="#">Shenkman Research Center</a></li>
+               <li><a href="#">Reagan at Eureka</a></li>
+               <li><a href="#">Four</a></li>
+               <li><a href="#">Five</a></li>
+             </ul>
+           </div>
+         <div class="small-10 large-3 columns end">
+            <p><i class="fi-social-twitter"></i> Twitter</p>
+            <p><i class="fi-social-facebook" align="absmiddle" /></i> Facebook</p>
+            <p><i class="fi-mail" align="absmiddle"></i> Email</p>
+          </div>
+          <!-- <div class="small-10 large-3 small-centered columns">
+            <p>Newsletter:</p>
+            <p><input type="text" value="Email Address"><input type="submit" class="button radius right"></p>
+          </div>-->
+        </div>
+      </div>
+  </div>
 </footer>
 
     <script src="bower_components/jquery/dist/jquery.min.js"></script>
     <script src="bower_components/foundation/js/foundation.min.js"></script>
     <script src="js/app.js"></script>
+    <script src="js/stickyfooter.js"></script>
+
   </body>
 </html>

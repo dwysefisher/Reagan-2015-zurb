@@ -6334,7 +6334,7 @@ blockquote {
 blockquote .quote {
   color: #fff;
   font-size: 4rem;
-  quotes: "“" "”" "‘" "’";
+  quotes: "“" "”" "‘" "’" "";
   display: inline;
   line-height: 1em; }
 
@@ -6347,6 +6347,9 @@ blockquote .quote:after {
   content: close-quote;
   font-size: 4em;
   line-height: -10em; }
+
+.fi-quote:before {
+  content: "\f1a3"; }
 
 .label {
   font-family: "adelle", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; }
@@ -6370,6 +6373,14 @@ figure {
 .side-image {
   margin: 1rem 0; }
 
+#footer {
+  background-color: #DDDDDD;
+  margin-top: 12rem; }
+
+footer img {
+  max-width: 100%;
+  width: 200px; }
+
 @media only screen and (min-width: 40.063em) {
   .ec-logo-wrapper {
     position: relative; }
@@ -6387,6 +6398,10 @@ figure {
   #logo img {
     max-width: 100%;
     width: 400px;
+    margin-bottom: 0.5rem; }
+
+  footer img {
+    width: 200px;
     margin-bottom: 0.5rem; }
 
   .primary-buttons {
