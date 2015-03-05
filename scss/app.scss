@@ -113,7 +113,7 @@ p a:hover, a:active {
   text-decoration: none;
 }
 
-#blue-background {
+#color-background {
  background-color: $tertiary-color;
  color: #fff;
  width: 100%;
@@ -158,6 +158,7 @@ p a:hover, a:active {
 
 .sub-nav a {
   color: #fff !important;
+  font-size: 1.1rem;
 }
 .sub-nav a:hover {
   color: #eee;
@@ -233,6 +234,29 @@ h6,.zeta    { $h6-font-size: 1rem; }
   background-color: #EEE !important;
 }
 
+blockquote {
+ border: none !important;
+}
+
+blockquote .quote {
+ color: #fff;
+ font-size: 4rem;
+ quotes: "\201C""\201D""\2018""\2019";
+ display: inline;
+ line-height: 1em;
+}
+
+blockquote .quote:before {
+ content: open-quote;
+ font-size: 4em;
+ margin-right: -0.25em;
+}
+blockquote .quote:after {
+ content: close-quote;
+ font-size: 4em;
+ line-height: -10em;
+
+}
 
 // Forms
 // - - - - - - - - - - - - - - - - - - - - - - - - -
