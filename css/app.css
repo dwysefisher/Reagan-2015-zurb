@@ -6251,7 +6251,10 @@ p a:hover, a:active {
   margin: 0 auto; }
 
 [class*="block-grid-"] {
-  margin: 0 -.625rem !important; }
+  margin: 1rem -0rem; }
+
+[class*="block-grid-"]:first-child {
+  margin-top: 10rem; }
 
 .primary-image h3 {
   position: absolute;
@@ -6282,15 +6285,14 @@ p a:hover, a:active {
   margin-top: 0;
   margin-bottom: 1rem; }
 
+.caption {
+  padding: 1.5rem; }
+
 .bottom-image-left .caption {
-  background-color: #EEE !important;
-  margin: -0.5rem 0 1rem 0;
-  padding: 0.5rem;
-  padding-top: 2rem; }
+  background-color: #EEE !important; }
 
 .bottom-image-center .caption {
-  background-color: #DDDDDD !important;
-  padding: 1rem; }
+  background-color: #DDDDDD !important; }
 
 .bottom-image-right .caption {
   background-color: #EEE !important; }
@@ -6307,12 +6309,16 @@ figure {
   overflow: hidden;
   /*border-bottom: 2px solid $neutral-color;*/ }
 
-.bottom-image-left, .bottom-image-center, .bottom-image-right img {
+/*.bottom-image-left, .bottom-image-center, .bottom-image-right  {
   display: block;
   margin-top: -1.5rem;
   margin-bottom: 0;
   max-width: 100%;
-  max-height: 220px; }
+  max-height: 220px;
+} */
+.side-image {
+  margin: 1rem 0;
+  margin-bottom: 1rem; }
 
 @media only screen and (min-width: 40.063em) {
   .ec-logo-wrapper {
@@ -6348,11 +6354,8 @@ figure {
       height: 220px;
       margin-bottom: 2rem;
     }*/
-  .bottom-image-center img {
-    max-width: 100%;
-    width: 400px;
-    max-height: 220px;
-    overflow: hidden; }
+  .side-image {
+    margin: 0; }
 
   .primary-image h3 {
     bottom: 10rem;
@@ -6383,4 +6386,4 @@ figure {
 [class*="block-grid-"] {
   display: block;
   padding: 0;
-  margin: -1rem -0.9rem 0; }
+  margin: -1rem -0.9rem 0 !important; }
