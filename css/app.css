@@ -6329,7 +6329,8 @@ p a:hover, a:active {
   background-color: #EEE !important; }
 
 blockquote {
-  border: none !important; }
+  border: none !important;
+  color: #fff; }
 
 blockquote .quote {
   color: #fff;
@@ -6375,7 +6376,7 @@ figure {
 
 #footer {
   background-color: #DDDDDD;
-  margin-top: 12rem; }
+  margin-top: 2rem; }
 
 footer img {
   max-width: 100%;
