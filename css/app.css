@@ -6330,7 +6330,8 @@ p a:hover, a:active {
 
 blockquote {
   border: none !important;
-  color: #fff; }
+  color: #fff;
+  background-color: #333333; }
 
 blockquote .quote {
   color: #fff;
