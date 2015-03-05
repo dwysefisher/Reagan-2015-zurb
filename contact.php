@@ -274,10 +274,11 @@ if($_POST["message"]) {
                <li><a href="#">Five</a></li>
              </ul>
            </div>
-         <div class="small-10 large-3 columns end">
-            <p><i class="fi-social-twitter"></i> Twitter</p>
-            <p><i class="fi-social-facebook" align="absmiddle" /></i> Facebook</p>
-            <p><i class="fi-mail" align="absmiddle"></i> Email</p>
+         <div class="small-10 large-3 columns">
+            <ul class="social">
+             <li><a href="#"><i class="fi-social-twitter" align="absmiddle"></i> Twitter</a></li>
+             <li><a href="#"><i class="fi-social-facebook" align="absmiddle" /></i> Facebook</a></li>
+            <li><a href="#"><i class="fi-mail" align="absmiddle"></i> Email</a></li>
           </div>
           <!-- <div class="small-10 large-3 small-centered columns">
             <p>Newsletter:</p>

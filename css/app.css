@@ -6381,6 +6381,15 @@ footer img {
   max-width: 100%;
   width: 200px; }
 
+.social li {
+  display: inline;
+  text-decoration: none;
+  list-style-type: none;
+  margin-right: 1rem; }
+
+.social a {
+  border-bottom: none; }
+
 @media only screen and (min-width: 40.063em) {
   .ec-logo-wrapper {
     position: relative; }
@@ -6447,8 +6456,12 @@ footer img {
     display: block;
     height: auto;
     float: left;
-    padding: 0; } }
-[class*="block-grid-"] {
-  display: block;
-  padding: 0;
-  margin: -1rem -0.9rem 0 !important; }
+    padding: 0; }
+
+  [class*="block-grid-"] {
+    display: block;
+    padding: 0;
+    margin: -1rem -0.9rem 0 !important; }
+
+  .social li {
+    display: block; } }
