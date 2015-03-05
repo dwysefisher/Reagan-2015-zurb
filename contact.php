@@ -8,9 +8,10 @@
     <link rel="icon" type="image/x-icon" href="favicon.ico" />
     <link rel="icon" type="image/png" href="favicon.png" />
     <link rel="stylesheet" href="css/app.css" />
+    <link rel="stylesheet" href="foundation-icons/foundation-icons.css" />
     <script src="bower_components/modernizr/modernizr.js"></script>
     <script src="//use.typekit.net/rfb2fjs.js"></script>
-<script>try{Typekit.load();}catch(e){}</script>
+    <script>try{Typekit.load();}catch(e){}</script>
   </head>
   <body>
 
