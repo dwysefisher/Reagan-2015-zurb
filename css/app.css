@@ -6216,6 +6216,13 @@ p a:hover, a:active {
   border-bottom: 0px;
   text-decoration: none; }
 
+#blue-background {
+  background-color: #00005c;
+  color: #fff;
+  width: 100%;
+  padding: 5em 0;
+  margin-bottom: 2rem; }
+
 .top-bar {
   margin-bottom: 1rem;
   background-color: #00005c; }
