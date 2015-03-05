@@ -6241,8 +6241,7 @@ p a:hover, a:active {
   display: inline-block; }
 
 .sub-nav a {
-  color: #fff !important;
-  text-transform: uppercase; }
+  color: #fff !important; }
 
 .sub-nav a:hover {
   color: #eee; }
@@ -6250,6 +6249,9 @@ p a:hover, a:active {
 .inline-list {
   display: table;
   margin: 0 auto; }
+
+[class*="block-grid-"] {
+  margin: 0 -.625rem !important; }
 
 .primary-image h3 {
   position: absolute;
@@ -6378,3 +6380,7 @@ figure {
     height: auto;
     float: left;
     padding: 0; } }
+[class*="block-grid-"] {
+  display: block;
+  padding: 0;
+  margin: -1rem -0.9rem 0; }
