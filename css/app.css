@@ -6231,6 +6231,11 @@ p a:hover, a:active {
   margin-bottom: 2em !important;
   background-color: #00005c !important; }
 
+.event {
+  padding: 1rem;
+  background-color: #DDDDDD;
+  margin-top: 0; }
+
 .label {
   font-family: "adelle", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; }
 
@@ -6241,7 +6246,7 @@ figure {
 #primary-image {
   max-width: 100%;
   overflow: hidden;
-  border-bottom: 2px solid #e2d0a6; }
+  /*border-bottom: 2px solid $neutral-color;*/ }
 
 .primary-caption {
   color: #fff;
@@ -6286,7 +6291,7 @@ figure {
     margin-bottom: 1rem;
     height: 220px;
     overflow: hidden;
-    border-right: 2px solid #e2d0a6; }
+    /*border-right: 2px solid $neutral-color;*/ }
 
   .bottom-image:nth-last-child(2) {
     border-right: 0px; }
