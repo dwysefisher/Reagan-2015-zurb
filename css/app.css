@@ -1,3 +1,4 @@
+@charset "UTF-8";
 meta.foundation-version {
   font-family: "/5.5.1/"; }
 
@@ -6216,7 +6217,7 @@ p a:hover, a:active {
   border-bottom: 0px;
   text-decoration: none; }
 
-#blue-background {
+#color-background {
   background-color: #00005c;
   color: #fff;
   width: 100%;
@@ -6248,7 +6249,8 @@ p a:hover, a:active {
   display: inline-block; }
 
 .sub-nav a {
-  color: #fff !important; }
+  color: #fff !important;
+  font-size: 1.1rem; }
 
 .sub-nav a:hover {
   color: #eee; }
@@ -6303,6 +6305,26 @@ p a:hover, a:active {
 
 .bottom-image-right .caption {
   background-color: #EEE !important; }
+
+blockquote {
+  border: none !important; }
+
+blockquote .quote {
+  color: #fff;
+  font-size: 4rem;
+  quotes: "“" "”" "‘" "’";
+  display: inline;
+  line-height: 1em; }
+
+blockquote .quote:before {
+  content: open-quote;
+  font-size: 4em;
+  margin-right: -0.25em; }
+
+blockquote .quote:after {
+  content: close-quote;
+  font-size: 4em;
+  line-height: -10em; }
 
 .label {
   font-family: "adelle", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; }
