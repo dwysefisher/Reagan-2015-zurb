@@ -126,7 +126,6 @@ p a:hover, a:active {
 }
 
 .divider {
-  border-right: 1px solid $tertiary-color !important;
   }
 
 /*.primary {
@@ -134,9 +133,33 @@ p a:hover, a:active {
   background-color: $tertiary-color !important;
   }*/
 
-// Background color for the top bar
-$topbar-bg-color: $tertiary-color !default;
-$topbar-bg: $topbar-bg-color !default;
+.sub-nav {
+  background-color: $tertiary-color;
+  padding: 1rem;
+  margin-bottom: 2rem;
+}
+
+.sub-nav ul {
+  list-style-type: none !important;
+  text-align: center;
+}
+
+.sub-nav li {
+  display: inline-block;
+}
+
+.sub-nav a {
+  color: #fff !important;
+  text-transform: uppercase;
+}
+.sub-nav a:hover {
+  color: #eee;
+}
+
+.inline-list{
+  display: table;
+  margin: 0 auto;
+}
 
 // Typography
 // - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -305,6 +328,8 @@ figure {
    text-transform: uppercase !important;
    margin-right: 0.5rem;
   }
+
+
 
 // Lists
 // - - - - - - - - - - - - - - - - - - - - - - - - -
