@@ -270,7 +270,7 @@ blockquote {
 blockquote .quote {
  color: #fff;
  font-size: 4rem;
- quotes: "\201C""\201D""\2018""\2019";
+ quotes: "\201C""\201D""\2018""\2019""\f1a3";
  display: inline;
  line-height: 1em;
 }
@@ -285,6 +285,9 @@ blockquote .quote:after {
  font-size: 4em;
  line-height: -10em;
 
+}
+.fi-quote:before {
+  content: "\f1a3";
 }
 
 // Forms
@@ -317,6 +320,17 @@ figure {
  margin: 1rem 0;
 }
 
+// Footer
+// - - - - - - - - - - - - - - - - - - - - - - - - -
+#footer {
+ background-color:$gainsboro;
+ margin-top: 12rem;
+}
+
+footer img {
+ max-width: 100%;
+ width: 200px;
+}
 
 
 // Media Queries
@@ -343,6 +357,11 @@ figure {
   width: 400px;
   margin-bottom: 0.5rem;
 }
+
+footer img {
+   width: 200px;
+   margin-bottom: 0.5rem;
+ }
 
 .primary-buttons {
   margin-top:2rem;
