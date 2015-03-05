@@ -6282,10 +6282,10 @@ p a:hover, a:active {
   margin: 0 auto; }
 
 [class*="block-grid-"] {
-  margin: 1rem -0rem; }
+  margin: 1rem 0rem; }
 
 [class*="block-grid-"]:first-child {
-  margin-top: 10rem; }
+  margin-top: 0.5rem; }
 
 .primary-image h3 {
   position: absolute;
