@@ -175,11 +175,11 @@ h6,.zeta    { $h6-font-size: 1rem; }
   position: absolute;
   color: #fff;
   bottom: 5.5rem;
-  padding:0 1rem; 
+  padding:0 1rem;
 }
 
 .primary-image h4 {
-  position: absolute;  
+  position: absolute;
   color: #fff;
   bottom:0.5rem;
   padding: 0 1rem;
@@ -303,7 +303,7 @@ figure {
 // - - - - - - - - - - - - - - - - - - - - - - - - -
 .primary-image h3 {
   bottom: 10rem;
-  padding:0 1rem; 
+  padding:0 1rem;
 }
 
 .primary-image h4 {
@@ -323,7 +323,7 @@ figure {
   section.top-bar-section {
   display: inline-block;
   }
-  
+
   .navbar li a {
    text-transform: uppercase !important;
    margin-right: 0.5rem;
@@ -333,6 +333,10 @@ figure {
 
 // Lists
 // - - - - - - - - - - - - - - - - - - - - - - - - -
-  
 
+[class*="block-grid-"] > li {
+  display: block;
+  height: auto;
+  float: left;
+  padding: 0; }
 }
