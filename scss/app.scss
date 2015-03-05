@@ -113,6 +113,14 @@ p a:hover, a:active {
   text-decoration: none;
 }
 
+#blue-background {
+ background-color: $tertiary-color;
+ color: #fff;
+ width: 100%;
+ padding: 5em 0;
+ margin-bottom: 2rem;
+}
+
 // Navigation
 // - - - - - - - - - - - - - - - - - - - - - - - - -
 .top-bar {
