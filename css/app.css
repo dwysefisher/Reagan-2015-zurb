@@ -6326,6 +6326,12 @@ figure {
       height: 220px;
       margin-bottom: 2rem;
     }*/
+  .bottom-image-center img {
+    max-width: 100%;
+    width: 400px;
+    max-height: 220px;
+    overflow: hidden; }
+
   .primary-image h3 {
     bottom: 10rem;
     padding: 0 1rem; }
