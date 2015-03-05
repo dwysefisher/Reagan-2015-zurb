@@ -148,6 +148,12 @@ h5,
 .epsilon { $h5-font-size: rem-calc(18); }
 h6,.zeta    { $h6-font-size: 1rem; }
 
+.event {
+  padding:1rem;
+  background-color: $gainsboro;
+  margin-top: 0;
+}
+
 // Forms
 // - - - - - - - - - - - - - - - - - - - - - - - - -
 .label {font-family: $font-family-sans-serif;}
@@ -163,7 +169,7 @@ figure {
 #primary-image {
   max-width: 100%;
   overflow: hidden;
-  border-bottom: 2px solid $neutral-color;
+  /*border-bottom: 2px solid $neutral-color;*/
 }
 
 .primary-caption {
@@ -221,12 +227,16 @@ figure {
   margin-bottom: 1rem;
   height: 220px;
   overflow: hidden;
-  border-right: 2px solid $neutral-color;
+  /*border-right: 2px solid $neutral-color;*/
 }
 
 .bottom-image:nth-last-child(2) {
   border-right: 0px;
 }
+
+// Typography
+// - - - - - - - - - - - - - - - - - - - - - - - - -
+
 
 // Navigation
 // - - - - - - - - - - - - - - - - - - - - - - - - -
