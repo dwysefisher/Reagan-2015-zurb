@@ -6224,13 +6224,33 @@ p a:hover, a:active {
   font-family: "adelle", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   text-transform: uppercase; }
 
-.divider {
-  border-right: 1px solid #00005c !important; }
-
 /*.primary {
   margin-bottom: 2em !important;
   background-color: $tertiary-color !important;
   }*/
+.sub-nav {
+  background-color: #00005c;
+  padding: 1rem;
+  margin-bottom: 2rem; }
+
+.sub-nav ul {
+  list-style-type: none !important;
+  text-align: center; }
+
+.sub-nav li {
+  display: inline-block; }
+
+.sub-nav a {
+  color: #fff !important;
+  text-transform: uppercase; }
+
+.sub-nav a:hover {
+  color: #eee; }
+
+.inline-list {
+  display: table;
+  margin: 0 auto; }
+
 .primary-image h3 {
   position: absolute;
   color: #fff;
