@@ -332,6 +332,15 @@ footer img {
  width: 200px;
 }
 
+.social li {
+ display:inline;
+ text-decoration: none;
+ list-style-type: none;
+ margin-right: 1rem;
+}
+
+.social a {border-bottom:none;}
+
 
 // Media Queries
 // - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -423,9 +432,15 @@ footer img {
   height: auto;
   float: left;
   padding: 0; }
-}
+
 
 [class*="block-grid-"] {
   display: block;
   padding: 0;
   margin: -1rem -0.9rem 0 !important; }
+
+  .social li {
+   display:block;
+  }
+
+}
