@@ -6317,7 +6317,8 @@ p a:hover, a:active {
   margin-bottom: 1rem; }
 
 .caption {
-  padding: 1.5rem; }
+  padding: 1.5rem;
+  padding-bottom: 0.25em !important; }
 
 .bottom-image-left .caption {
   background-color: #EEE !important; }
