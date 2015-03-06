@@ -3646,6 +3646,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/rr-ge-theater.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65546,
+		"inputAbbreviatedPath": "\/img\/rr-ge-theater.jpg",
+		"outputAbbreviatedPath": "\/img\/rr-ge-theater.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/RRS-logo-web-banner.png": {
 		"fileType": 32768,
 		"ignore": 0,

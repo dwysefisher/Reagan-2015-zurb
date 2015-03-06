@@ -60,7 +60,7 @@ body {
   color: #222;
   padding: 0;
   margin: 0;
-  font-family: "adelle", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-family: "adelle-sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   font-weight: normal;
   font-style: normal;
   line-height: 1.5;
@@ -1158,7 +1158,7 @@ select {
       color: #222222;
       padding: 1rem;
       display: block;
-      font-family: "adelle", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+      font-family: "adelle-sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
       font-size: 1rem; }
       .accordion .accordion-navigation > a:hover, .accordion dd > a:hover {
         background: #e3e3e3; }
@@ -1582,7 +1582,7 @@ button, .button {
   border-style: solid;
   border-width: 0;
   cursor: pointer;
-  font-family: "adelle", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-family: "adelle-sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   font-weight: normal;
   line-height: normal;
   margin: 0 0 1.25rem;
@@ -2846,7 +2846,7 @@ select {
   border-color: #cccccc;
   padding: 0.5rem;
   font-size: 0.875rem;
-  font-family: "adelle", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-family: "adelle-sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   color: rgba(0, 0, 0, 0.75);
   line-height: normal;
   border-radius: 0;
@@ -3306,7 +3306,7 @@ kbd {
 
 .label {
   font-weight: normal;
-  font-family: "adelle", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-family: "adelle-sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   text-align: center;
   text-decoration: none;
   line-height: 1;
@@ -3689,7 +3689,7 @@ ul.pagination {
     color: #EEEEEE;
     font-weight: normal;
     font-size: 1rem;
-    font-family: "adelle", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; }
+    font-family: "adelle-sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; }
   .pricing-table .price {
     background-color: #F6F6F6;
     padding: 0.9375rem 1.25rem;
@@ -3697,7 +3697,7 @@ ul.pagination {
     color: #333333;
     font-weight: normal;
     font-size: 2rem;
-    font-family: "adelle", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; }
+    font-family: "adelle-sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; }
   .pricing-table .description {
     background-color: #FFFFFF;
     padding: 0.9375rem;
@@ -3946,7 +3946,7 @@ ul.pagination {
   padding: 0.875rem 0;
   list-style-type: none;
   list-style-position: outside;
-  font-family: "adelle", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; }
+  font-family: "adelle-sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; }
   .side-nav li {
     margin: 0 0 0.4375rem 0;
     font-size: 0.875rem;
@@ -3962,7 +3962,7 @@ ul.pagination {
     .side-nav li.active > a:first-child:not(.button) {
       color: #d04357;
       font-weight: normal;
-      font-family: "adelle", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; }
+      font-family: "adelle-sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; }
     .side-nav li.divider {
       border-top: 1px solid;
       height: 0;
@@ -4082,7 +4082,7 @@ ul.pagination {
     float: left;
     margin-left: 1rem;
     margin-bottom: 0;
-    font-family: "adelle", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    font-family: "adelle-sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
     font-weight: normal;
     font-size: 0.875rem;
     color: #999999; }
@@ -4270,7 +4270,7 @@ table {
       background-color: #EFEFEF;
       color: #222222;
       padding: 1rem 2rem;
-      font-family: "adelle", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+      font-family: "adelle-sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
       font-size: 1rem; }
       .tabs dd > a:hover, .tabs .tab-title > a:hover {
         background-color: #e1e1e1; }
@@ -4572,10 +4572,10 @@ meta.foundation-mq-topbar {
       color: #FFFFFF;
       padding: 12px 0 12px 0;
       padding-left: 0.9375rem;
-      font-family: "adelle", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+      font-family: "adelle-sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
       font-size: 0.9375rem;
       font-weight: normal;
-      text-transform: none; }
+      text-transform: uppercase; }
       .top-bar-section ul li > a.button {
         font-size: 0.9375rem;
         padding-right: 0.9375rem;
@@ -5094,7 +5094,7 @@ p {
   font-family: inherit;
   font-weight: normal;
   font-size: 1rem;
-  line-height: 1.6;
+  line-height: 1.5;
   margin-bottom: 2rem;
   text-rendering: optimizeLegibility; }
   p.lead {
@@ -5107,7 +5107,7 @@ p {
 
 /* Default header styles */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "adelle", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-family: "adelle-sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   font-weight: normal;
   font-style: normal;
   color: #222222;
@@ -5182,7 +5182,7 @@ ul,
 ol,
 dl {
   font-size: 1rem;
-  line-height: 1.6;
+  line-height: 1.5;
   margin-bottom: 2rem;
   list-style-position: outside;
   font-family: inherit; }
@@ -5248,7 +5248,7 @@ abbr {
 blockquote {
   margin: 0 0 2rem;
   padding: 0.5625rem 1.25rem 0 1.1875rem;
-  border-left: 1px solid #DDDDDD; }
+  border-left: none; }
   blockquote cite {
     display: block;
     font-size: 0.8125rem;
@@ -5261,7 +5261,7 @@ blockquote {
 
 blockquote,
 blockquote p {
-  line-height: 1.6;
+  line-height: 1.5;
   color: #6f6f6f; }
 
 /* Microformats */
@@ -6163,7 +6163,7 @@ body {
 p a:link {
   color: #990033;
   text-decoration: none;
-  border-bottom: dotted 1px #990033; }
+  border-bottom: dotted 1px #8b2332; }
 
 p a:visited {
   color: #685e60;
@@ -6251,13 +6251,19 @@ p a:hover, a:active {
   background-color: #00005c; }
 
 .top-bar .toggle-topbar.menu-icon a {
-  font-family: "adelle", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-family: "adelle-sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   text-transform: uppercase; }
 
 /*.primary {
   margin-bottom: 2em !important;
   background-color: $tertiary-color !important;
   }*/
+.sub-nav,
+.top-bar a {
+  font-family: inherit;
+  font-weight: 100 !important;
+  letter-spacing: 0.1rem; }
+
 .sub-nav {
   background-color: #00005c;
   padding: 1rem;
@@ -6271,12 +6277,11 @@ p a:hover, a:active {
   display: inline-block; }
 
 .sub-nav a {
-  color: #fff !important;
-  font-size: 1.1rem; }
+  color: #fff !important; }
 
-.sub-nav a:hover {
-  color: #eee; }
-
+/*.sub-nav a:hover {
+  color: #eee;
+}*/
 .inline-list {
   display: table;
   margin: 0 auto; }
@@ -6287,9 +6292,15 @@ p a:hover, a:active {
 [class*="block-grid-"]:first-child {
   margin-top: 0.5rem; }
 
+.primary-buttons a {
+  font-weight: 100;
+  text-transform: uppercase; }
+
 .primary-image h3 {
   position: absolute;
   color: #fff;
+  font-family: "adelle", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-weight: 700;
   bottom: 5.5rem;
   padding: 0 1rem; }
 
@@ -6331,8 +6342,7 @@ p a:hover, a:active {
 
 blockquote {
   border: none !important;
-  color: #fff;
-  background-color: #333333; }
+  color: #fff; }
 
 blockquote .quote {
   color: #fff;
@@ -6355,7 +6365,7 @@ blockquote .quote:after {
   content: "\f1a3"; }
 
 .label {
-  font-family: "adelle", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; }
+  font-family: "adelle-sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; }
 
 figure {
   padding: 0 !important;
@@ -6452,7 +6462,6 @@ footer img {
     display: inline-block; }
 
   .navbar li a {
-    text-transform: uppercase !important;
     margin-right: 0.5rem; }
 
   [class*="block-grid-"] > li {
