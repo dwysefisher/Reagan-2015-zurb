@@ -48,11 +48,11 @@
 
    <section class="top-bar-section">
      <ul class="navbar right">
-       <li><a href="#">Who we are</a></li>
+       <li><a href="who-we-are.html">Who we are</a></li>
        <li class="divider"></li>
        <li><a href="what-we-do.html">What we do</a></li>
        <li class="divider"></li>
-       <li><a href="#">Visit Eureka</a></li>
+       <li><a href="https://www.eureka.edu/discover/visit-eureka">Visit Eureka</a></li>
        <li class="divider"></li>
        <li><a href="#">Society Membership</a></li>
        <li class="divider"></li>
