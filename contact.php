@@ -50,7 +50,7 @@
      <ul class="navbar right">
        <li><a href="#">Who we are</a></li>
        <li class="divider"></li>
-       <li><a href="#">What we do</a></li>
+       <li><a href="what-we-do.html">What we do</a></li>
        <li class="divider"></li>
        <li><a href="#">Visit Eureka</a></li>
        <li class="divider"></li>
