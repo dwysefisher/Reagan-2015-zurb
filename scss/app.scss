@@ -50,7 +50,7 @@ body {
 p a:link {
  color: #990033;
  text-decoration: none;
- border-bottom: dotted 1px #990033;
+ border-bottom: dotted 1px $primary-color;
 }
 
 p a:visited {
@@ -105,7 +105,6 @@ p a:hover, a:active {
     background-color: $primary-color;
     height: 2rem;
     margin-bottom: 1rem;
-
 }
 
 .ec-logo-wrapper .ec-logo {
@@ -170,6 +169,13 @@ p a:hover, a:active {
   background-color: $tertiary-color !important;
   }*/
 
+.sub-nav,
+.top-bar a {
+  font-family: inherit;
+  font-weight: 100 !important;
+  letter-spacing: 0.1rem;
+}
+
 .sub-nav {
   background-color: $tertiary-color;
   padding: 1rem;
@@ -187,11 +193,10 @@ p a:hover, a:active {
 
 .sub-nav a {
   color: #fff !important;
-  font-size: 1.1rem;
 }
-.sub-nav a:hover {
+/*.sub-nav a:hover {
   color: #eee;
-}
+}*/
 
 .inline-list{
   display: table;
@@ -217,9 +222,16 @@ h5,
 .epsilon { $h5-font-size: rem-calc(18); }
 h6,.zeta    { $h6-font-size: 1rem; }
 
+.primary-buttons a {
+  font-weight: 100;
+  text-transform: uppercase;
+}
+
 .primary-image h3 {
   position: absolute;
   color: #fff;
+  font-family: $font-family-slab;
+  font-weight: 700;
   bottom: 5.5rem;
   padding:0 1rem;
 }
@@ -267,7 +279,6 @@ h6,.zeta    { $h6-font-size: 1rem; }
 blockquote {
  border: none !important;
  color: #fff;
- background-color: $secondary-color;
 }
 
 blockquote .quote {
@@ -379,6 +390,7 @@ footer img {
   margin-top:2rem;
 }
 
+
 // Images
 // - - - - - - - - - - - - - - - - - - - - - - - - -
 /*  .imagelist {
@@ -423,7 +435,6 @@ footer img {
   }
 
   .navbar li a {
-   text-transform: uppercase !important;
    margin-right: 0.5rem;
   }
 
