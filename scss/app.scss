@@ -39,12 +39,19 @@
 //   "foundation/components/offcanvas",
 //   "foundation/components/visibility";
 
+/* @import url(cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.css);*/
+
 body {
  font-family: "calluna", Georgia, serif;
  line-height: 1.625;
  font-size:1.125rem;
  color:#333;
  background-color: $neutral-color;
+}
+
+.full-grid {
+  padding-left: 0 !important;
+  padding-right: 0rem !important;
 }
 
 p a:link {
