@@ -6360,7 +6360,7 @@ figure {
   padding: 0 !important;
   margin: 0 !important; }
 
-#primary-image {
+.primary-image {
   max-width: 100%;
   overflow: hidden;
   /*border-bottom: 2px solid $neutral-color;*/ }
