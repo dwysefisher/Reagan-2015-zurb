@@ -3768,15 +3768,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1
 		},
-	"\/pages\/what-we-do.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/pages\/what-we-do.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/pages\/what-we-do.kit": {
 		"fileType": 2048,
 		"ignore": 0,
@@ -3785,15 +3776,6 @@
 		"outputAbbreviatedPath": "\/what-we-do.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1
-		},
-	"\/pages\/who-we-are.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/pages\/who-we-are.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/pages\/who-we-are.kit": {
 		"fileType": 2048,
@@ -3837,6 +3819,15 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/partials\/_nav.kit",
 		"outputAbbreviatedPath": "\/partials\/_nav.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/partials\/_variables.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/partials\/_variables.kit",
+		"outputAbbreviatedPath": "\/partials\/_variables.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -3914,7 +3905,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "DT",
+"lastSavedByUser": "Dustin Wyse-Fisher",
 "manualImportLinks": {
 	},
 "projectAttributes": {
