@@ -6273,10 +6273,11 @@ p a:hover, a:active {
 .top-bar a {
   font-family: inherit;
   font-weight: 100 !important;
-  letter-spacing: 0.1rem; }
+  letter-spacing: 0.1rem;
+  text-transform: uppercase; }
 
 .sub-nav {
-  background-color: #00005c;
+  background-color: #333333;
   padding: 1rem;
   margin-bottom: 2rem; }
 
