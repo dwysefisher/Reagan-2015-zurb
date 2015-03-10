@@ -6303,6 +6303,19 @@ p a:hover, a:active {
 [class*="block-grid-"]:first-child {
   margin-top: 0.5rem; }
 
+.clearing-assembled .clearing-container .carousel > ul {
+  width: auto !important; }
+
+.clearing-assembled .clearing-thumbs li {
+  padding-bottom: 1rem; }
+
+.clearing-container .carousel > ul {
+  width: auto !important; }
+
+.clearing-caption {
+  font-family: "adelle", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-weight: 100; }
+
 .primary-buttons a {
   font-weight: 100;
   text-transform: uppercase; }
