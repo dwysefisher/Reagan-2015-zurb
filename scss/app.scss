@@ -181,10 +181,11 @@ p a:hover, a:active {
   font-family: inherit;
   font-weight: 100 !important;
   letter-spacing: 0.1rem;
+  text-transform:uppercase;
 }
 
 .sub-nav {
-  background-color: $tertiary-color;
+  background-color: $secondary-color;
   padding: 1rem;
   margin-bottom: 2rem;
 }
