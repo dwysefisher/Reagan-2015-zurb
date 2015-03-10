@@ -3768,6 +3768,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1
 		},
+	"\/pages\/visit-reagans-campus.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/pages\/visit-reagans-campus.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/pages\/visit-reagans-campus.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/pages\/visit-reagans-campus.kit",
+		"outputAbbreviatedPath": "\/visit-reagans-campus.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/pages\/what-we-do.kit": {
 		"fileType": 2048,
 		"ignore": 0,
@@ -3905,7 +3923,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "Dustin Wyse-Fisher",
+"lastSavedByUser": "DT",
 "manualImportLinks": {
 	},
 "projectAttributes": {
