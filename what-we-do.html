@@ -35,7 +35,7 @@
       <a href="/" id="logo"><img src="img/RRS-logo-web-banner.png" alt="Ronald W. Reagan Society of Eureka College" title="Ronald W. Reagan Society of Eureka College"></a>
     </div>
     <div class="small-centered text-center medium-uncentered medium-4 right columns primary-buttons">
-        <a href="#" class="button radius" role="button">Become a member</a>
+        <a href="become-a-member.html" class="button radius" role="button">Become a member</a>
         <h4 class="pull-3" style="text-align: right; margin-top: -1em;"><a href="#" class="" role=""><small>Member login</small></a></h4>
     </div><!-- end buttons -->
   </div>
@@ -57,7 +57,7 @@
        <li class="divider"></li>
        <li><a href="https://www.eureka.edu/discover/visit-eureka">Visit Eureka</a></li>
        <li class="divider"></li>
-       <li><a href="#">Society Membership</a></li>
+       <li><a href="#">Ways to Give</a></li>
        <li class="divider"></li>
        <li><a href="#">Contact</a></li>
      </ul>
