@@ -6279,24 +6279,27 @@ p a:hover, a:active {
 .sub-nav {
   background-color: #333333;
   padding: 1rem;
-  margin-bottom: 2rem; }
-
-.sub-nav ul {
-  list-style-type: none !important;
+  margin: 0 auto;
+  margin-bottom: 2rem;
   text-align: center; }
 
-.sub-nav li {
-  display: inline-block; }
+.sub-nav ul {
+  list-style-type: none !important; }
 
-.sub-nav a {
-  color: #fff !important; }
+.sub-nav li {
+  display: inline; }
+
+.sub-nav ul li a {
+  color: #fff !important;
+  display: inline-block; }
 
 /*.sub-nav a:hover {
   color: #eee;
 }*/
 .inline-list {
   display: table;
-  margin: 0 auto; }
+  margin: 0 auto;
+  text-align: center; }
 
 [class*="block-grid-"] {
   margin: 1rem 0rem; }
@@ -6488,6 +6491,12 @@ footer img {
 
   .navbar li a {
     margin-right: 0.5rem; }
+
+  .sub-nav li {
+    display: inline-block; }
+
+  .sub-nav li a {
+    text-align: center; }
 
   [class*="block-grid-"] > li {
     display: block;
