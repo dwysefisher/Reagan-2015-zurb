@@ -257,7 +257,7 @@ if($_POST["message"]) {
 <!-- Footer -->
 <footer id="footer">
   <div class="row">
-    <div class="small-10 medium-4 small-centered medium-uncentered columns">
+    <div class="small-10 medium-6 small-centered medium-uncentered columns">
       <a href="#" class="" id=""><img src="img/RRS-logo-web-banner.png" alt="Ronald W. Reagan Society of Eureka College" title="Ronald W. Reagan Society of Eureka College"></a>
       <p>The Ronald W. Reagan Society of Eureka College aims to be a national beacon for American opportunity and a living legacy to the values we instilled in Ronald W. Reagan. </p>
     </div>
@@ -272,7 +272,7 @@ if($_POST["message"]) {
        <li><a href="#">Contact</a></li>
       </ul>
     </div>
-    <div class="small-6 medium-3 columns">
+    <div class="small-6 medium-3 columns end">
        <ul class="footer-links">
          <li><a href="https://www.eureka.edu/reagan/reagan-leadership-program/">Leadership Program</a></li>
          <li><a href="https://www.eureka.edu/library/shenkman-center/">Shenkman Research Center</a></li>
