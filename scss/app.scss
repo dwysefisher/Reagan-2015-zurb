@@ -197,22 +197,27 @@ p a:hover, a:active {
 }
 
 .sub-nav li {
-  display: inline;
+  display: block;
 }
 
 .sub-nav ul li a {
   color: #fff !important;
   display: inline-block;
 }
-/*.sub-nav a:hover {
+.sub-nav a:hover {
   color: #eee;
-}*/
+}
 
 .inline-list{
   display: table;
   margin: 0 auto;
   text-align: center;
 }
+
+.footer-links {
+  list-style-type: none;
+}
+
 // Lists
 // - - - - - - - - - - - - - - - - - - - - - - - - -
 [class*="block-grid-"] {
@@ -355,11 +360,15 @@ figure {
 #footer {
  background-color:$gainsboro;
  margin-top: 2rem;
+ padding-top: 2rem;
+ text-align: left;
+
 }
 
 footer img {
  max-width: 100%;
  width: 200px;
+ margin: 0 auto;
 }
 
 .social li {
