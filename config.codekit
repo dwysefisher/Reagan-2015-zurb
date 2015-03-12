@@ -3791,9 +3791,9 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/index.kit",
-		"outputAbbreviatedPath": "\/pages\/index.html",
+		"outputAbbreviatedPath": "\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 1
 		},
 	"\/pages\/visit-reagans-campus.kit": {
 		"fileType": 2048,
