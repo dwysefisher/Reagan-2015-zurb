@@ -187,20 +187,22 @@ p a:hover, a:active {
 .sub-nav {
   background-color: $secondary-color;
   padding: 1rem;
+  margin: 0 auto;
   margin-bottom: 2rem;
+  text-align: center;
 }
 
 .sub-nav ul {
   list-style-type: none !important;
-  text-align: center;
 }
 
 .sub-nav li {
-  display: inline-block;
+  display: inline;
 }
 
-.sub-nav a {
+.sub-nav ul li a {
   color: #fff !important;
+  display: inline-block;
 }
 /*.sub-nav a:hover {
   color: #eee;
@@ -209,8 +211,8 @@ p a:hover, a:active {
 .inline-list{
   display: table;
   margin: 0 auto;
+  text-align: center;
 }
-
 // Lists
 // - - - - - - - - - - - - - - - - - - - - - - - - -
 [class*="block-grid-"] {
@@ -451,6 +453,14 @@ footer img {
   .navbar li a {
    margin-right: 0.5rem;
   }
+
+  .sub-nav li {
+  display: inline-block;
+}
+ 
+.sub-nav li a {
+  text-align: center;
+}
 
 // Lists
 // - - - - - - - - - - - - - - - - - - - - - - - - -
