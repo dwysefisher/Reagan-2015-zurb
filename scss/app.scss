@@ -75,12 +75,16 @@ a:active {
 }
 
 .body-list {
-  text-decoration: none;
-  list-style-type: none;
-  margin-bottom: 0;
+  margin-bottom: 2rem;
+  margin-left: 2rem;
 }
 
-.body-list li a:link {
+.body-list-linked {
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.body-list-linked li a:link {
   border-bottom: 1px solid $primary-color;
   color: $primary-color;
 }
