@@ -5149,7 +5149,7 @@ hr {
   border: solid #DDDDDD;
   border-width: 1px 0 0;
   clear: both;
-  margin: 1.25rem 0 1.1875rem;
+  margin: 1.6875rem 0 1.625rem;
   height: 0; }
 
 /* Helpful Typography Defaults */
@@ -6184,11 +6184,14 @@ a:active {
   border-bottom: none; }
 
 .body-list {
-  text-decoration: none;
-  list-style-type: none;
-  margin-bottom: 0; }
+  margin-bottom: 2rem;
+  margin-left: 2rem; }
 
-.body-list li a:link {
+.body-list-linked {
+  text-decoration: none;
+  list-style-type: none; }
+
+.body-list-linked li a:link {
   border-bottom: 1px solid #8b2332;
   color: #8b2332; }
 
