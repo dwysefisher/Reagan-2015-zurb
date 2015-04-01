@@ -6426,7 +6426,8 @@ blockquote .quote:after {
   content: "\f1a3"; }
 
 .lead-paragraph {
-  font-size: 1.84rem; }
+  font-size: 1.125rem;
+  font-weight: 600; }
 
 .label {
   font-family: "adelle-sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; }
