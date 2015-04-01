@@ -6350,12 +6350,16 @@ h3, .gamma {
 h4, .delta {
   font-size: 1.4375rem;
   font-weight: 300;
-  color: #333333; }
+  color: #8b2332; }
 
 h5,
 .epsilon {
   font-size: 1.125rem;
   font-weight: 400; }
+
+.lead-paragraph {
+  font-size: 1.125rem;
+  font-weight: 600; }
 
 .primary-image h3 {
   position: absolute;
@@ -6425,10 +6429,6 @@ blockquote .quote:after {
 .fi-quote:before {
   content: "\f1a3"; }
 
-.lead-paragraph {
-  font-size: 1.125rem;
-  font-weight: 600; }
-
 .label {
   font-family: "adelle-sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; }
 
@@ -6468,6 +6468,24 @@ footer img {
 
 .social a {
   border-bottom: none; }
+
+.accordion {
+  width: 100%;
+  border: 1px solid #F6F6F6;
+  margin: 0 auto;
+  margin-bottom: 1em; }
+
+.accordion-icon:before {
+  position: absolute;
+  font-family: FontAwesome;
+  top: 1.25em;
+  right: 3em;
+  content: "\f078";
+  color: #990033; }
+
+.active .accordion-icon:before {
+  font-family: FontAwesome;
+  content: "\f077"; }
 
 @media only screen and (min-width: 40.063em) {
   .ec-logo-wrapper {
