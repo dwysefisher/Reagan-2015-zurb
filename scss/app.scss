@@ -74,6 +74,17 @@ a:active {
   border-bottom: none;
 }
 
+.body-list {
+  text-decoration: none;
+  list-style-type: none;
+  margin-bottom: 0;
+}
+
+.body-list li a:link {
+  border-bottom: 1px solid $primary-color;
+  color: $primary-color;
+}
+
 /* @font-face {
   font-family: '[set]Foundicons';
   src: url('fonts/[set]_foundicons.eot');

@@ -6183,6 +6183,15 @@ p a:hover, a:active {
 a:active {
   border-bottom: none; }
 
+.body-list {
+  text-decoration: none;
+  list-style-type: none;
+  margin-bottom: 0; }
+
+.body-list li a:link {
+  border-bottom: 1px solid #8b2332;
+  color: #8b2332; }
+
 /* @font-face {
   font-family: '[set]Foundicons';
   src: url('fonts/[set]_foundicons.eot');
