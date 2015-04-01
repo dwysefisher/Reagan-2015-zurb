@@ -267,10 +267,15 @@ a:active {
 h1,.alpha   { $h1-font-size: rem-calc(44); }
 h2,.beta    { $h2-font-size: rem-calc(37); }
 h3,.gamma   { font-size: 1.6875rem; font-weight: 400;  }
-h4,.delta   { font-size: 1.4375rem; font-weight: 300; color: $secondary-color;}
+h4,.delta   { font-size: 1.4375rem; font-weight: 300; color: $primary-color;}
 h5,
 .epsilon { font-size:1.125rem; font-weight: 400;  }
 h6,.zeta    { $h6-font-size: 1rem; }
+
+.lead-paragraph {
+  font-size: 1.125rem;
+  font-weight: 600;
+}
 
 .primary-image h3 {
   position: absolute;
@@ -349,10 +354,6 @@ blockquote .quote:after {
   content: "\f1a3";
 }
 
-.lead-paragraph {
-  font-size: 1.125rem;
-  font-weight: 600;
-}
 
 // Forms
 // - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -406,6 +407,29 @@ footer img {
 
 .social a {border-bottom:none;}
 
+// Special
+// - - - - - - - - - - - - - - - - - - - - - - - - -
+.accordion {
+  width: 100%;
+  border: 1px solid $vapor;
+  margin: 0 auto;
+  margin-bottom: 1em;
+}
+
+//The accordion is closed
+.accordion-icon:before {
+  position: absolute;
+  font-family: FontAwesome;
+  top: 1.25em;
+  right: 3em;
+  content: "\f078";
+  color: #990033;
+}
+//The accordion is open
+.active .accordion-icon:before {
+  font-family: FontAwesome;
+  content: "\f077";
+ }
 
 // Media Queries
 // - - - - - - - - - - - - - - - - - - - - - - - - -
