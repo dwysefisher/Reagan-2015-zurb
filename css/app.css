@@ -1152,16 +1152,16 @@ select {
     display: block;
     margin-bottom: 0 !important; }
     .accordion .accordion-navigation.active > a, .accordion dd.active > a {
-      background: #e8e8e8; }
+      background: #e2d0a6; }
     .accordion .accordion-navigation > a, .accordion dd > a {
-      background: #EFEFEF;
+      background: #e5d5af;
       color: #222222;
       padding: 1rem;
       display: block;
       font-family: "adelle-sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
       font-size: 1rem; }
       .accordion .accordion-navigation > a:hover, .accordion dd > a:hover {
-        background: #e3e3e3; }
+        background: #e0cda0; }
     .accordion .accordion-navigation > .content, .accordion dd > .content {
       display: none;
       padding: 0.9375rem; }
@@ -6314,6 +6314,16 @@ a:active {
 .footer-links a:hover {
   border-bottom: solid 1px rgba(139, 35, 50, 0.6); }
 
+.primary-buttons a {
+  font-weight: 100;
+  text-transform: uppercase; }
+
+.primary-buttons a:hover {
+  border-bottom: none; }
+
+.button a {
+  color: #fff; }
+
 [class*="block-grid-"] {
   margin: 1rem 0rem; }
 
@@ -6333,12 +6343,19 @@ a:active {
   font-family: "adelle", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   font-weight: 100; }
 
-.primary-buttons a {
-  font-weight: 100;
-  text-transform: uppercase; }
+h3, .gamma {
+  font-size: 1.6875rem;
+  font-weight: 400; }
 
-.primary-buttons a:hover {
-  border-bottom: none; }
+h4, .delta {
+  font-size: 1.4375rem;
+  font-weight: 300;
+  color: #333333; }
+
+h5,
+.epsilon {
+  font-size: 1.125rem;
+  font-weight: 400; }
 
 .primary-image h3 {
   position: absolute;
@@ -6407,6 +6424,9 @@ blockquote .quote:after {
 
 .fi-quote:before {
   content: "\f1a3"; }
+
+.lead-paragraph {
+  font-size: 1.84rem; }
 
 .label {
   font-family: "adelle-sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; }
