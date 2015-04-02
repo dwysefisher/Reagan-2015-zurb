@@ -40,6 +40,9 @@
 //   "foundation/components/visibility";
 
 /* @import url(cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.css);*/
+@import 'reset.css';
+@import 'normalize.css';
+
 
 body {
  font-family: "calluna", Georgia, serif;
@@ -483,6 +486,11 @@ footer img {
 
 // Images
 // - - - - - - - - - - - - - - - - - - - - - - - - -
+.primary-image img {
+  height: 50% !important;
+  overflow: hidden;
+}
+
 /*  .imagelist {
     margin-bottom: 5em;
   }
