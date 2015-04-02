@@ -3739,6 +3739,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/young-reagan-sign-lg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 134496,
+		"inputAbbreviatedPath": "\/img\/young-reagan-sign-lg.jpg",
+		"outputAbbreviatedPath": "\/img\/young-reagan-sign-lg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/young-reagan-sign.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
