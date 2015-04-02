@@ -40,8 +40,10 @@
 //   "foundation/components/visibility";
 
 /* @import url(cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.css);*/
-@import 'reset.css';
-@import 'normalize.css';
+img,
+embed,
+object,
+video, { max-width: 100%; }
 
 
 body {
@@ -486,9 +488,21 @@ footer img {
 
 // Images
 // - - - - - - - - - - - - - - - - - - - - - - - - -
-.primary-image img {
-  height: 50% !important;
+.figure {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.primary-image {
   overflow: hidden;
+}
+
+.primary-image img {
+  padding: 0;
+  display: block;
+  max-width: 100%;
+  height: auto;
 }
 
 /*  .imagelist {
@@ -505,6 +519,10 @@ footer img {
   }*/
   .side-image {
    margin: 0;
+   margin-bottom: -0.8em;
+   -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+           box-sizing: border-box;
   }
 
 // Typography
