@@ -3684,6 +3684,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/ec-logo-full.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9031,
+		"inputAbbreviatedPath": "\/img\/ec-logo-full.png",
+		"outputAbbreviatedPath": "\/img\/ec-logo-full.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/george-shultz-speaking.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3691,6 +3702,17 @@
 		"initialSize": 56981,
 		"inputAbbreviatedPath": "\/img\/george-shultz-speaking.jpg",
 		"outputAbbreviatedPath": "\/img\/george-shultz-speaking.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/reagan-1992-ivy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 102841,
+		"inputAbbreviatedPath": "\/img\/reagan-1992-ivy.jpg",
+		"outputAbbreviatedPath": "\/img\/reagan-1992-ivy.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4039,7 +4061,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "DT",
+"lastSavedByUser": "Dustin Wyse-Fisher",
 "manualImportLinks": {
 	},
 "projectAttributes": {
