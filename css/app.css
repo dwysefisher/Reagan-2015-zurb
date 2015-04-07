@@ -6420,6 +6420,10 @@ h5,
   padding: 1.5rem;
   padding-bottom: 0.25em !important; }
 
+.bottom-image-left,
+.bottom-image-right {
+  background-color: #EEE; }
+
 .bottom-image-left .caption {
   background-color: #EEE !important; }
 

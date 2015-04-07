@@ -3695,6 +3695,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/fall-of-the-wall-header.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 73787,
+		"inputAbbreviatedPath": "\/img\/fall-of-the-wall-header.jpg",
+		"outputAbbreviatedPath": "\/img\/fall-of-the-wall-header.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/fall-of-the-wall.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 82177,
+		"inputAbbreviatedPath": "\/img\/fall-of-the-wall.jpg",
+		"outputAbbreviatedPath": "\/img\/fall-of-the-wall.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/george-shultz-speaking.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3702,6 +3724,28 @@
 		"initialSize": 56981,
 		"inputAbbreviatedPath": "\/img\/george-shultz-speaking.jpg",
 		"outputAbbreviatedPath": "\/img\/george-shultz-speaking.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/oconnor-header.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 108606,
+		"inputAbbreviatedPath": "\/img\/oconnor-header.jpg",
+		"outputAbbreviatedPath": "\/img\/oconnor-header.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/peace-garden.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52858,
+		"inputAbbreviatedPath": "\/img\/peace-garden.jpg",
+		"outputAbbreviatedPath": "\/img\/peace-garden.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3724,6 +3768,17 @@
 		"initialSize": 87058,
 		"inputAbbreviatedPath": "\/img\/reagan-fellows.jpg",
 		"outputAbbreviatedPath": "\/img\/reagan-fellows.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/reagan-flags-hero.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 112343,
+		"inputAbbreviatedPath": "\/img\/reagan-flags-hero.jpg",
+		"outputAbbreviatedPath": "\/img\/reagan-flags-hero.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
