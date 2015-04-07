@@ -134,11 +134,11 @@ a:active {
 .ec-logo-wrapper {
     position: relative;
     background-color: $primary-color;
-    height: 2rem;
+    height: 4rem;
     margin-bottom: 1rem;
 }
 
-.ec-logo-wrapper .ec-logo {
+/*.ec-logo-wrapper .ec-logo {
     position: absolute;
     width: 40px;
     height:  40px;
@@ -147,6 +147,13 @@ a:active {
     top: 3px;
     margin-left: -25px;
     z-index: 2;
+}*/
+
+.ec-logo {
+ position: relative;
+ width: 35%;
+ margin: 0 auto;
+ margin-top: 0.5rem;
 }
 
 /*.logo {
@@ -459,7 +466,7 @@ footer img {
     position: relative;
 }
 
-.ec-logo-wrapper .ec-logo {
+/*.ec-logo-wrapper .ec-logo {
     position: absolute;
     width: 50px;
     height:  50px;
@@ -468,6 +475,13 @@ footer img {
     top: 1px;
     margin-left: -46px;
     z-index: 2;
+}*/
+
+.ec-logo {
+ position: relative;
+ float: right;
+ margin-right: 2rem;
+ width:200px;
 }
 
 #logo img {
@@ -532,12 +546,11 @@ footer img {
   padding:0 1rem;
 }
 
-.primary-image h4 {
+.primary-image p {
   color: #fff;
   bottom: 3.5rem;
   padding: 0 1rem;
-  font-size: 1.375rem;
-  line-height: 150%;
+
 }
 
 
