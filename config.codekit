@@ -3717,6 +3717,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/reagan-fellows.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 87058,
+		"inputAbbreviatedPath": "\/img\/reagan-fellows.jpg",
+		"outputAbbreviatedPath": "\/img\/reagan-fellows.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/reagan-signature-black.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11442,
+		"inputAbbreviatedPath": "\/img\/reagan-signature-black.png",
+		"outputAbbreviatedPath": "\/img\/reagan-signature-black.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/rr-ge-theater.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3746,6 +3768,17 @@
 		"initialSize": 76360,
 		"inputAbbreviatedPath": "\/img\/run-with-reagan.jpg",
 		"outputAbbreviatedPath": "\/img\/run-with-reagan.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/shenkman-research-center.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 71887,
+		"inputAbbreviatedPath": "\/img\/shenkman-research-center.jpg",
+		"outputAbbreviatedPath": "\/img\/shenkman-research-center.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3790,6 +3823,17 @@
 		"initialSize": 72735,
 		"inputAbbreviatedPath": "\/img\/young-reagan-web.jpg",
 		"outputAbbreviatedPath": "\/img\/young-reagan-web.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/young-reagan.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40784,
+		"inputAbbreviatedPath": "\/img\/young-reagan.jpg",
+		"outputAbbreviatedPath": "\/img\/young-reagan.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
