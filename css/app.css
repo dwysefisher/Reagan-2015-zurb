@@ -6390,7 +6390,7 @@ h5,
   color: #fff;
   font-family: "adelle", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   font-weight: 700;
-  bottom: 5.5rem;
+  top: 1.5rem;
   padding: 0 1rem; }
 
 .primary-image h4 {
@@ -6419,10 +6419,6 @@ h5,
 .caption {
   padding: 1.5rem;
   padding-bottom: 0.25em !important; }
-
-.bottom-image-left,
-.bottom-image-right {
-  background-color: #EEE; }
 
 .bottom-image-left .caption {
   background-color: #EEE !important; }
