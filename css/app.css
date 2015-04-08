@@ -6235,8 +6235,8 @@ a:active {
 
 #head-wrapper a {text-decoration: none; color: #FFF; border-bottom: none;}*/
 /*.name {padding: 1em auto; height: 300px; } */
-.ec-logo-wrapper {
-  position: relative;
+#ec-logo-wrapper {
+  width: 100%;
   background-color: #8b2332;
   height: 4rem;
   margin-bottom: 1rem; }
@@ -6251,11 +6251,13 @@ a:active {
     margin-left: -25px;
     z-index: 2;
 }*/
-.ec-logo {
-  position: relative;
-  width: 35%;
+#ec-logo {
+  display: block;
+  width: 150px;
+  left: 50%;
   margin: 0 auto;
-  margin-top: 0.5rem; }
+  max-width: 35%;
+  padding-top: 0.75rem; }
 
 /*.logo {
  background: url(../img/RRS-logo-web-banner.svg) no-repeat;
@@ -6367,11 +6369,13 @@ a:active {
   font-family: "adelle", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   font-weight: 100; }
 
-h3, .gamma {
+h3,
+.gamma {
   font-size: 1.6875rem;
   font-weight: 400; }
 
-h4, .delta {
+h4,
+.delta {
   font-size: 1.4375rem;
   font-weight: 300;
   color: #8b2332; }
@@ -6385,30 +6389,36 @@ h5,
   font-size: 1.125rem;
   font-weight: 600; }
 
-.primary-image h3 {
+/*.primary-image h3 {
   position: absolute;
   color: #fff;
-  font-family: "adelle", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-family: $font-family-slab;
   font-weight: 700;
   top: 1.5rem;
-  padding: 0 1rem; }
+  padding:0 1rem;
+}
 
 .primary-image h4 {
   position: absolute;
   color: #fff;
-  bottom: 0.5rem;
+  bottom:0.5rem;
   padding: 0 1rem;
   font-size: 0.875rem;
-  line-height: 130%; }
-
-.primary-caption {
+  line-height: 130%;
+}*/
+/*.primary-caption {
+  background-color: #eee;
   color: #fff;
   margin-top: -12rem;
   margin-bottom: 2rem;
   padding: 1.5rem;
   font-size: 1.375rem;
   line-height: 120%;
-  letter-spacing: 0.1rem; }
+  letter-spacing: 0.1rem;
+}
+*/
+.primary-caption {
+  background-color: #eee; }
 
 .side-image-caption {
   padding: 1rem;
@@ -6417,6 +6427,7 @@ h5,
   margin-bottom: 1rem; }
 
 .caption {
+  background-color: #eee;
   padding: 1.5rem;
   padding-bottom: 0.25em !important; }
 
@@ -6461,6 +6472,7 @@ figure {
   margin: 0 !important; }
 
 .primary-image {
+  background-color: #eee;
   max-width: 100%;
   overflow: hidden;
   /*border-bottom: 2px solid $neutral-color;*/ }
@@ -6525,6 +6537,14 @@ footer img {
       margin-left: -46px;
       z-index: 2;
   }*/
+  #ec-logo {
+    display: block;
+    float: right;
+    margin-right: 10%;
+    width: 150px;
+    max-width: 35%;
+    padding-top: 0.5rem; }
+
   .ec-logo {
     position: relative;
     float: right;
@@ -6549,7 +6569,8 @@ footer img {
     box-sizing: border-box; }
 
   .primary-image {
-    overflow: hidden; }
+    overflow: hidden;
+    background-color: #eee; }
 
   .primary-image img {
     padding: 0;
@@ -6576,15 +6597,17 @@ footer img {
     -moz-box-sizing: border-box;
     box-sizing: border-box; }
 
-  .primary-image h3 {
+  /*.primary-image h3 {
     bottom: 10rem;
-    padding: 0 1rem; }
-
+    padding:0 1rem;
+  }
+  
   .primary-image h4 {
     color: #fff;
     bottom: -3.5rem;
-    padding: 0 1rem; }
-
+    padding: 0 1rem;
+  
+  }*/
   nav.top-bar {
     text-align: center; }
 
