@@ -28,7 +28,7 @@
 //   "foundation/components/reveal",
 //   "foundation/components/side-nav",
 //   "foundation/components/split-buttons",
-//   "foundation/components/sub-nav",
+//   "foundation/components/secondary-nav",
 //   "foundation/components/switches",
 //   "foundation/components/tables",
 //   "foundation/components/tabs",
@@ -56,7 +56,7 @@ body {
 
 .full-grid {
   padding-left: 0 !important;
-  padding-right: 0rem !important;
+  padding-right: 0 !important;
 }
 
 p a:link {
@@ -210,41 +210,12 @@ a:active {
   background-color: $tertiary-color !important;
   }*/
 
-.sub-nav,
+.secondary-nav,
 .top-bar a {
-  font-family: inherit;
+  font-family: $font-family-sans-serif;
   font-weight: 100 !important;
   letter-spacing: 0.1rem;
   text-transform:uppercase;
-}
-
-.sub-nav {
-  background-color: $secondary-color;
-  padding: 1rem;
-  margin: 0 auto;
-  margin-bottom: 2rem;
-  text-align: center;
-}
-
-.sub-nav ul {
-  list-style-type: none !important;
-}
-
-.sub-nav li {
-  display: block;
-}
-
-.sub-nav a:hover {
-  border-bottom: none;
-  color: $neutral-color;
-}
-
-.sub-nav ul li a {
-  color: #fff !important;
-  display: inline-block;
-}
-.sub-nav a:hover {
-  color: #eee;
 }
 
 .inline-list{
@@ -252,6 +223,40 @@ a:active {
   margin: 0 auto;
   text-align: center;
 }
+
+.secondary-nav {
+  background-color: $secondary-color;
+  padding: 1rem;
+  margin: 0 auto;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.secondary-nav a {
+ color: #fff;
+}
+
+.secondary-nav ul {
+  list-style-type: none !important;
+}
+
+.secondary-nav li {
+  display: block;
+}
+
+.secondary-nav a:hover {
+  border-bottom: none;
+  color: $neutral-color;
+  background-color: $charcoal;
+}
+
+/*.secondary-nav ul li a {
+  color: #fff !important;
+  display: block;
+}
+.secondary-nav ul li a:hover {
+  color: #eee;
+}*/
 
 .footer-links {
   list-style-type: none;
@@ -593,11 +598,11 @@ footer img {
    margin-right: 0.5rem;
   }
 
-  .sub-nav li {
+  .secondary-nav li {
   display: inline-block;
 }
 
-.sub-nav li a {
+.secondary-nav li a {
   text-align: center;
 }
 
