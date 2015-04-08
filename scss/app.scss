@@ -465,12 +465,14 @@ footer img {
 
 //The accordion is closed
 .accordion-icon:before {
-  position: absolute;
+  /*position: absolute;*/
   font-family: FontAwesome;
-  top: 1.25em;
-  right: 3em;
+  /*top: 1.25em;
+  right: 3em;*/
   content: "\f078";
   color: #990033;
+  padding-top: 0.5em;
+  padding-right: 1rem;
 }
 //The accordion is open
 .active .accordion-icon:before {
