@@ -432,6 +432,10 @@ figure {
  margin: 1rem 0;
 }
 
+.signature {
+ width:40%;
+ padding-left: 1rem;}
+
 // Footer
 // - - - - - - - - - - - - - - - - - - - - - - - - -
 #footer {
@@ -586,6 +590,10 @@ footer img {
 
 }*/
 
+.quote {
+ padding-top: 1em;
+}
+
 
 // Navigation
 // - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -621,11 +629,22 @@ footer img {
 [class*="block-grid-"] {
   display: block;
   padding: 0;
-  margin: -1rem -0.9rem 0 !important; }
+  margin: -1rem -0.9rem 0 !important;
+  background-color: #eee;
+ }
 
 .social li {
  display:inline-block;
  padding-right: 2rem;
 }
+
+}
+
+@media only screen and (min-width: 40.063em) and (max-width: 64em) {
+
+ .signature {
+  float: right;
+  padding-top: 0.5em;
+ }
 
 }
