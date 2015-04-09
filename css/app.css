@@ -6354,6 +6354,21 @@ a:active {
 .button a {
   color: #fff; }
 
+/*.secondary-navbar {
+    @include button($bg:$oil); border-bottom: 0;
+}
+  .secondary-navbar > li { @include button-group-style();
+ }*/
+.button-group.stack-for-small > li .button {
+  border: 0; }
+
+.secondary-nav a {
+  background-color: #333333;
+  font-size: 80%; }
+
+.secondary-nav a:hover {
+  background-color: #333333; }
+
 [class*="block-grid-"] {
   margin: 1rem 0rem; }
 
