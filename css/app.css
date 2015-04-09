@@ -6663,7 +6663,10 @@ footer img {
 
   .social li {
     display: inline-block;
-    padding-right: 2rem; } }
+    padding-right: 2rem; }
+
+  .photo-gallery {
+    background-color: #e2d0a6 !important; } }
 @media only screen and (min-width: 40.063em) and (max-width: 64em) {
   .primary-caption {
     min-height: 16em; }

@@ -3695,6 +3695,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/eureka-college-campus.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 172414,
+		"inputAbbreviatedPath": "\/img\/eureka-college-campus.jpg",
+		"outputAbbreviatedPath": "\/img\/eureka-college-campus.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/fall-of-the-wall-header.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -4008,6 +4019,15 @@
 		"outputAbbreviatedPath": "\/visit-reagans-campus.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/pages\/ways-to-give.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/pages\/ways-to-give.kit",
+		"outputAbbreviatedPath": "\/ways-to-give.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1
 		},
 	"\/pages\/what-we-do.kit": {
 		"fileType": 2048,
