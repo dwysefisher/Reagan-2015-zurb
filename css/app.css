@@ -6677,3 +6677,12 @@ footer img {
 
   .secondary-navbar .button {
     padding: 1rem; } }
+@media only screen and (orientation: landscape) {
+  .primary-caption {
+    min-height: 10em !important; }
+
+  .bottom-image-center .caption {
+    min-height: 15em; }
+
+  .secondary-navbar .button {
+    padding: 0.5rem 1.5rem; } }
