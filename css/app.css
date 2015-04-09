@@ -6313,6 +6313,7 @@ a:active {
 .secondary-nav {
   background-color: #333333;
   padding: 1rem;
+  padding-bottom: 0;
   margin: 0 auto;
   margin-bottom: 2rem;
   text-align: center; }
@@ -6645,9 +6646,6 @@ footer img {
   .navbar li a {
     margin-right: 0.5rem; }
 
-  .secondary-nav li {
-    display: inline-block; }
-
   .secondary-nav li a {
     text-align: center; }
 
@@ -6669,4 +6667,7 @@ footer img {
 @media only screen and (min-width: 40.063em) and (max-width: 64em) {
   .signature {
     float: right;
-    padding-top: 0.5em; } }
+    padding-top: 0.5em; }
+
+  .secondary-navbar .button {
+    padding: 1rem; } }
