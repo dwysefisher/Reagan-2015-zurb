@@ -670,6 +670,14 @@ footer img {
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 @media only screen and (min-width: 40.063em) and (max-width: 64em) {
 
+.primary-caption {
+ min-height: 16em;
+}
+
+.bottom-image-center .caption {
+ min-height:23em;
+}
+
  .signature {
   float: right;
   padding-top: 0.5em;
