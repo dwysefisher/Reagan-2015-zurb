@@ -281,6 +281,25 @@ a:active {
   color: #fff;
 }
 
+/*.secondary-navbar {
+    @include button($bg:$oil); border-bottom: 0;
+}
+  .secondary-navbar > li { @include button-group-style();
+ }*/
+
+ .button-group.stack-for-small > li .button {
+  border: 0;
+ }
+
+  .secondary-nav a {
+   background-color: $oil;
+   font-size: 80%;
+  }
+
+  .secondary-nav a:hover {
+   background-color: $oil;
+  }
+
 // Lists
 // - - - - - - - - - - - - - - - - - - - - - - - - -
 [class*="block-grid-"] {
@@ -484,6 +503,10 @@ footer img {
   content: "\f077";
  }
 
+// TABLET & UP STYLING
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
 // Media Queries
 // - - - - - - - - - - - - - - - - - - - - - - - - -
 @media only screen and (min-width: 40.063em) {
@@ -640,6 +663,10 @@ footer img {
 
 }
 
+// END TABLET & UP STYLING
+
+// TABLET-ONLY STYLING
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 @media only screen and (min-width: 40.063em) and (max-width: 64em) {
 
  .signature {
@@ -647,4 +674,7 @@ footer img {
   padding-top: 0.5em;
  }
 
+
+
 }
+// END TABLET-ONLY STYLING
