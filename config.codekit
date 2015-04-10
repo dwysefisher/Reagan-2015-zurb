@@ -3673,6 +3673,105 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/img\/campus-chapel.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 128351,
+		"inputAbbreviatedPath": "\/img\/campus-chapel.jpg",
+		"outputAbbreviatedPath": "\/img\/campus-chapel.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/campus-lincoln-rock.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 146048,
+		"inputAbbreviatedPath": "\/img\/campus-lincoln-rock.jpg",
+		"outputAbbreviatedPath": "\/img\/campus-lincoln-rock.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/campus-mckinzie-field.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 107934,
+		"inputAbbreviatedPath": "\/img\/campus-mckinzie-field.jpg",
+		"outputAbbreviatedPath": "\/img\/campus-mckinzie-field.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/campus-peace-garden.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 167476,
+		"inputAbbreviatedPath": "\/img\/campus-peace-garden.jpg",
+		"outputAbbreviatedPath": "\/img\/campus-peace-garden.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/campus-pritchard-theatre.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 128761,
+		"inputAbbreviatedPath": "\/img\/campus-pritchard-theatre.jpg",
+		"outputAbbreviatedPath": "\/img\/campus-pritchard-theatre.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/campus-reagan-center.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 104883,
+		"inputAbbreviatedPath": "\/img\/campus-reagan-center.jpg",
+		"outputAbbreviatedPath": "\/img\/campus-reagan-center.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/campus-reagan-museum.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 118952,
+		"inputAbbreviatedPath": "\/img\/campus-reagan-museum.jpg",
+		"outputAbbreviatedPath": "\/img\/campus-reagan-museum.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/campus-reagan-trail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5.00818e+06,
+		"inputAbbreviatedPath": "\/img\/campus-reagan-trail.jpg",
+		"outputAbbreviatedPath": "\/img\/campus-reagan-trail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/campus-shenkman-research-center.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 120874,
+		"inputAbbreviatedPath": "\/img\/campus-shenkman-research-center.jpg",
+		"outputAbbreviatedPath": "\/img\/campus-shenkman-research-center.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/craig-barbara-barrett.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3849,6 +3948,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/shenkman-ceremony.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90837,
+		"inputAbbreviatedPath": "\/img\/shenkman-ceremony.jpg",
+		"outputAbbreviatedPath": "\/img\/shenkman-ceremony.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/shenkman-research-center.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3867,6 +3977,105 @@
 		"initialSize": 21013,
 		"inputAbbreviatedPath": "\/img\/shield-rgb.png",
 		"outputAbbreviatedPath": "\/img\/shield-rgb.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/th\/th-chapel.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34867,
+		"inputAbbreviatedPath": "\/img\/th\/th-chapel.jpg",
+		"outputAbbreviatedPath": "\/img\/th\/th-chapel.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/th\/th-lincoln-rock.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44034,
+		"inputAbbreviatedPath": "\/img\/th\/th-lincoln-rock.jpg",
+		"outputAbbreviatedPath": "\/img\/th\/th-lincoln-rock.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/th\/th-mckinzie-field.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31547,
+		"inputAbbreviatedPath": "\/img\/th\/th-mckinzie-field.jpg",
+		"outputAbbreviatedPath": "\/img\/th\/th-mckinzie-field.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/th\/th-peace-garden.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39244,
+		"inputAbbreviatedPath": "\/img\/th\/th-peace-garden.jpg",
+		"outputAbbreviatedPath": "\/img\/th\/th-peace-garden.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/th\/th-pritchard-theatre.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42341,
+		"inputAbbreviatedPath": "\/img\/th\/th-pritchard-theatre.jpg",
+		"outputAbbreviatedPath": "\/img\/th\/th-pritchard-theatre.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/th\/th-reagan-center.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31802,
+		"inputAbbreviatedPath": "\/img\/th\/th-reagan-center.jpg",
+		"outputAbbreviatedPath": "\/img\/th\/th-reagan-center.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/th\/th-reagan-museum.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34155,
+		"inputAbbreviatedPath": "\/img\/th\/th-reagan-museum.jpg",
+		"outputAbbreviatedPath": "\/img\/th\/th-reagan-museum.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/th\/th-reagan-trail.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35356,
+		"inputAbbreviatedPath": "\/img\/th\/th-reagan-trail.jpg",
+		"outputAbbreviatedPath": "\/img\/th\/th-reagan-trail.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/th\/th-shenkman-research-center.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36970,
+		"inputAbbreviatedPath": "\/img\/th\/th-shenkman-research-center.jpg",
+		"outputAbbreviatedPath": "\/img\/th\/th-shenkman-research-center.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4166,6 +4375,15 @@
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/visit-reagans-campus.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/ways-to-give.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ways-to-give.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
