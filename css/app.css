@@ -6389,10 +6389,26 @@ a:active {
   font-family: "adelle", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   font-weight: 100; }
 
+/*h1,
+.alpha   { $h1-font-size: rem-calc(44); }
+h2,
+.beta    { $h2-font-size: rem-calc(37); }*/
+h1,
+.alpha {
+  font-size: 2.074rem;
+  font-weight: 400; }
+
+h2,
+.beta {
+  font-size: 1.953rem;
+  font-weight: 400;
+  color: #555555; }
+
 h3,
 .gamma {
   font-size: 1.6875rem;
-  font-weight: 400; }
+  font-weight: 400;
+  color: #555555; }
 
 h4,
 .delta {
@@ -6403,7 +6419,8 @@ h4,
 h5,
 .epsilon {
   font-size: 1.125rem;
-  font-weight: 400; }
+  font-weight: 400;
+  color: #555555; }
 
 .lead-paragraph {
   font-size: 1.125rem;
