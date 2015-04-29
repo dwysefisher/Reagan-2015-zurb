@@ -318,16 +318,23 @@ a:active {
 
 // Typography
 // - - - - - - - - - - - - - - - - - - - - - - - - -
-h1,
+/*h1,
 .alpha   { $h1-font-size: rem-calc(44); }
 h2,
-.beta    { $h2-font-size: rem-calc(37); }
+.beta    { $h2-font-size: rem-calc(37); }*/
+
+h1,
+.alpha {font-size: 2.074rem; font-weight: 400;}
+
+h2,
+.beta {font-size: 1.953rem; font-weight:400; color: $charcoal;}
+
 h3,
-.gamma   { font-size: 1.6875rem; font-weight: 400;  }
+.gamma   { font-size: 1.6875rem; font-weight: 400; color:$charcoal; }
 h4,
 .delta   { font-size: 1.4375rem; font-weight: 300; color: $primary-color;}
 h5,
-.epsilon { font-size:1.125rem; font-weight: 400;  }
+.epsilon { font-size:1.125rem; font-weight: 400; color: $charcoal; }
 h6,
 .zeta    { $h6-font-size: 1rem; }
 
