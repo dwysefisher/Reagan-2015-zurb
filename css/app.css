@@ -1152,16 +1152,16 @@ select {
     display: block;
     margin-bottom: 0 !important; }
     .accordion .accordion-navigation.active > a, .accordion dd.active > a {
-      background: #e2d0a6; }
+      background: #dfcb9d; }
     .accordion .accordion-navigation > a, .accordion dd > a {
-      background: #e5d5af;
+      background: #e2d0a6;
       color: #222222;
       padding: 1rem;
       display: block;
       font-family: "adelle-sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
       font-size: 1rem; }
       .accordion .accordion-navigation > a:hover, .accordion dd > a:hover {
-        background: #e0cda0; }
+        background: #ddc897; }
     .accordion .accordion-navigation > .content, .accordion dd > .content {
       display: none;
       padding: 0.9375rem; }
@@ -6548,7 +6548,7 @@ footer img {
 
 .accordion {
   width: 100%;
-  border: 1px solid #F6F6F6;
+  border: none;
   margin: 0 auto;
   margin-bottom: 1em; }
 
