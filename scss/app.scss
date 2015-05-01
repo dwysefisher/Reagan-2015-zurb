@@ -489,7 +489,7 @@ footer img {
 // - - - - - - - - - - - - - - - - - - - - - - - - -
 .accordion {
   width: 100%;
-  border: 1px solid $vapor;
+  border: none /*1px solid $vapor*/;
   margin: 0 auto;
   margin-bottom: 1em;
 }

@@ -325,7 +325,8 @@ $blockquote-border: none;
 // $include-html-accordion-classes: $include-html-classes;
 
 // $accordion-navigation-padding: rem-calc(16);
-$accordion-navigation-bg-color: scale-color($neutral-color, $lightness: 10%);
+// $accordion-navigation-bg-color: scale-color($neutral-color, $lightness: 10%);
+$accordion-navigation-bg-color: $neutral-color;
 // $accordion-navigation-hover-bg-color: scale-color($accordion-navigation-bg-color, $lightness: -5%);
 // $accordion-navigation-active-bg-color: scale-color($accordion-navigation-bg-color, $lightness: -3%);
 // $accordion-navigation-font-color: $jet;
