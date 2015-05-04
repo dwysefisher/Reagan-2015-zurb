@@ -6177,7 +6177,7 @@ p a:link {
   border-bottom: solid 1px #8b2332; }
 
 p a:visited {
-  color: #685e60;
+  color: #990033;
   text-decoration: none;
   border-bottom: solid 1px #8b2332; }
 
@@ -6425,6 +6425,10 @@ h5,
 .lead-paragraph {
   font-size: 1.125rem;
   font-weight: 600; }
+
+small,
+.milli {
+  font-size: 80%; }
 
 /*.primary-image h3 {
   position: absolute;
