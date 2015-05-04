@@ -4063,6 +4063,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/RRS-logo-web-extended.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6776,
+		"inputAbbreviatedPath": "\/img\/RRS-logo-web-extended.png",
+		"outputAbbreviatedPath": "\/img\/RRS-logo-web-extended.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/RRS-logo-web-extended2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7529,
+		"inputAbbreviatedPath": "\/img\/RRS-logo-web-extended2.png",
+		"outputAbbreviatedPath": "\/img\/RRS-logo-web-extended2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/run-with-reagan.jpg": {
 		"fileType": 16384,
 		"ignore": 0,

@@ -6271,9 +6271,17 @@ a:active {
 #logo {
   text-indent: -99999px; }
 
-#logo img {
+/*#logo img {
   max-width: 100%;
   width: 150px;
+  margin:1rem 0;
+  padding-bottom: 1em;
+  border-bottom: 0px;
+  text-decoration: none;
+}*/
+#logo img {
+  max-width: 100%;
+  width: 300px;
   margin: 1rem 0;
   padding-bottom: 1em;
   border-bottom: 0px;
