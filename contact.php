@@ -36,10 +36,10 @@
 <div class="contain-to-grid">
 
   <div class="row">
-    <div class="small-12 small-centered text-center medium-uncentered medium-4 columns">
-      <a href="/" id="logo"><img src="img/RRS-logo-web-extended2.png" alt="Ronald W. Reagan Society of Eureka College" title="Ronald W. Reagan Society of Eureka College"></a>
+    <div class="small-12 small-centered text-center medium-uncentered medium-5 columns">
+      <a href="/" id="logo"><img src="img/RRS-logo-web-large.png" alt="The Ronald W. Reagan Society of Eureka College" title="The Ronald W. Reagan Society of Eureka College"></a>
     </div>
-    <div class="small-centered text-center medium-uncentered medium-4 right columns primary-buttons">
+    <div class="small-centered text-center medium-uncentered medium-3 right columns primary-buttons end">
         <a href="become-a-member.html" class="button radius" role="button">Become a member</a>
         <!--<h4 class="pull-3" style="text-align: right; margin-top: -1em;"><a href="#" class="" role=""><small>Member login</small></a></h4>-->
     </div><!-- end buttons -->

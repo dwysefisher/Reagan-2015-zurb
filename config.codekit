@@ -4085,6 +4085,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/RRS-logo-web-large.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12501,
+		"inputAbbreviatedPath": "\/img\/RRS-logo-web-large.png",
+		"outputAbbreviatedPath": "\/img\/RRS-logo-web-large.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/run-with-reagan.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
