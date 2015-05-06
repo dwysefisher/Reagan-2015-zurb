@@ -6434,6 +6434,9 @@ h5,
   font-size: 1.125rem;
   font-weight: 600; }
 
+.centi {
+  font-size: 95%; }
+
 small,
 .milli {
   font-size: 80%; }
@@ -6512,6 +6515,31 @@ blockquote .quote:after {
 
 .fi-quote:before {
   content: "\f1a3"; }
+
+#event-container {
+  margin: 0 auto;
+  margin-top: 1em;
+  padding: 10px;
+  max-width: 100%;
+  text-align: center; }
+
+.event {
+  width: 95%;
+  margin-left: 0;
+  margin: 2.5%;
+  background: #eee;
+  border: 1px solid #a6a6a6;
+  border-radius: 5px;
+  display: inline-block;
+  vertical-align: top;
+  padding: 2.5%; }
+
+.event img {
+  float: left;
+  padding-right: 1em; }
+
+.event-description {
+  text-align: left; }
 
 .label {
   font-family: "adelle-sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; }
@@ -6617,6 +6645,19 @@ footer img {
 
   .primary-buttons {
     margin-top: 2rem; }
+
+  .event {
+    display: inline-block;
+    vertical-align: top;
+    margin: 2.5%;
+    margin-left: 0;
+    padding: 2.5%;
+    width: 45%; }
+
+  .event:nth-child(even) {
+    padding-right: 2.5%;
+    margin-right: 0;
+    clear: both; }
 
   .figure {
     -webkit-box-sizing: border-box;
