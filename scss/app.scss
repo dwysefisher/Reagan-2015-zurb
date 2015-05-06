@@ -352,6 +352,8 @@ h6,
   font-weight: 600;
 }
 
+.centi {font-size: 95%;}
+
 small,
 .milli {font-size: 80%;}
 
@@ -439,6 +441,36 @@ blockquote .quote:after {
   content: "\f1a3";
 }
 
+// Events
+// - - - - - - - - - - - - - - - - - - - - - - - - -
+#event-container {
+  margin: 0 auto;
+  margin-top: 1em;
+  padding: 10px;
+  max-width: 100%;
+  text-align: center;
+}
+
+.event {
+  width: 95%;
+  margin-left: 0;
+  margin: 2.5%;
+  background: #eee;
+  border: 1px solid #a6a6a6;
+  border-radius: 5px;
+  display: inline-block;
+  vertical-align: top;
+  padding: 2.5%;
+}
+
+.event img {
+  float: left;
+  padding-right: 1em;
+}
+
+.event-description {
+  text-align: left;
+}
 
 // Forms
 // - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -577,6 +609,24 @@ footer img {
   margin-top:2rem;
 }
 
+// Events
+// - - - - - - - - - - - - - - - - - - - - - - - - -
+
+.event {
+  display: inline-block;
+  vertical-align: top;
+  margin: 2.5%;
+  margin-left: 0;
+  padding: 2.5%;
+  width: 45%;
+  }
+
+.event:nth-child(even) {
+  padding-right: 2.5%;
+  margin-right: 0;
+  clear: both;
+}
+
 
 // Images
 // - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -652,7 +702,6 @@ footer img {
   }
 
   .secondary-nav li {
-
 }
 
 .secondary-nav li a {
