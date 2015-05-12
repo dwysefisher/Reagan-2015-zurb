@@ -5095,7 +5095,7 @@ p {
   font-weight: normal;
   font-size: 1rem;
   line-height: 1.5;
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
   text-rendering: optimizeLegibility; }
   p.lead {
     font-size: 1.21875rem;
@@ -5183,7 +5183,7 @@ ol,
 dl {
   font-size: 1rem;
   line-height: 1.5;
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
   list-style-position: outside;
   font-family: inherit; }
 
@@ -5246,7 +5246,7 @@ abbr {
 
 /* Blockquotes */
 blockquote {
-  margin: 0 0 2rem;
+  margin: 0 0 1.5rem;
   padding: 0.5625rem 1.25rem 0 1.1875rem;
   border-left: none; }
   blockquote cite {
@@ -6163,7 +6163,7 @@ video {
 body {
   font-family: "calluna", Georgia, serif;
   line-height: 1.625;
-  font-size: 1.125rem;
+  font-size: 1.25rem;
   color: #333;
   background-color: #e2d0a6; }
 
@@ -6431,7 +6431,7 @@ h5,
   color: #555555; }
 
 .lead-paragraph {
-  font-size: 1.125rem;
+  font-size: 1.25rem;
   font-weight: 600; }
 
 .centi {
@@ -6704,6 +6704,9 @@ footer img {
     padding: 0 1rem;
   
   }*/
+  p {
+    font-size: 1.125rem; }
+
   .quote {
     padding-top: 1em; }
 
