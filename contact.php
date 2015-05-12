@@ -279,6 +279,12 @@ if($_POST["message"]) {
         <a href="#" class="close-reveal-modal">×</a>
       </div>
 
+<div class="scroll-top-wrapper ">
+ <span class="scroll-top-inner">
+  <i class="fa fa-2x fa-arrow-circle-o-up"></i>
+ </span>
+</div>
+
 <!-- Footer -->
 <footer id="footer">
   <div class="row">
