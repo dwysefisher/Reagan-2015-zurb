@@ -3964,6 +3964,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/peace-garden-landscape.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 82333,
+		"inputAbbreviatedPath": "\/img\/peace-garden-landscape.jpg",
+		"outputAbbreviatedPath": "\/img\/peace-garden-landscape.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/peace-garden-portrait.jpg": {
 		"fileType": 16384,
 		"ignore": 0,

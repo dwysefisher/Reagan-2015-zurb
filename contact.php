@@ -289,7 +289,7 @@ if($_POST["message"]) {
 <footer id="footer">
   <div class="row">
     <div class="small-10 medium-6 small-centered medium-uncentered columns">
-      <a href="/" class="" id=""><img src="img/RRS-logo-web-banner.png" alt="Ronald W. Reagan Society of Eureka College" title="Ronald W. Reagan Society of Eureka College"></a>
+      <a href="/" class="" id=""><img src="img/RRS-logo-web-large.png" alt="Ronald W. Reagan Society of Eureka College" title="Ronald W. Reagan Society of Eureka College"></a>
       <p>The Ronald W. Reagan Society of Eureka College aims to be a national beacon for American opportunity and a living legacy to the values we instilled in Ronald W. Reagan. </p>
     </div>
    <div class="">

@@ -6738,6 +6738,9 @@ footer img {
   p {
     font-size: 1.125rem; }
 
+  .home-copy p {
+    font-size: 1rem !important; }
+
   .quote {
     padding-top: 1em; }
 
@@ -6773,7 +6776,7 @@ footer img {
     background-color: #e2d0a6 !important; } }
 @media only screen and (min-width: 40.063em) and (max-width: 64em) {
   .primary-caption {
-    min-height: 16em; }
+    min-height: 20em; }
 
   .bottom-image-center .caption {
     min-height: 23em; }
@@ -6783,10 +6786,13 @@ footer img {
     padding-top: 0.5em; }
 
   .secondary-navbar .button {
-    padding: 1rem; } }
+    padding: 1rem; }
+
+  .side-image {
+    min-height: 30em; } }
 @media only screen and (orientation: landscape) {
   .primary-caption {
-    min-height: 10em !important; }
+    min-height: 13em !important; }
 
   .bottom-image-center .caption {
     min-height: 15em; }
