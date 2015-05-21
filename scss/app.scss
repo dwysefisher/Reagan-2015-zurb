@@ -1,31 +1,31 @@
 @import "settings";
-@import "foundation";
+// @import "foundation";
 
 // Or selectively include components
-// @import
-//   "foundation/components/accordion",
+@import
+"foundation/components/accordion",
 //   "foundation/components/alert-boxes",
-//   "foundation/components/block-grid",
+"foundation/components/block-grid",
 //   "foundation/components/breadcrumbs",
-//   "foundation/components/button-groups",
-//   "foundation/components/buttons",
-//   "foundation/components/clearing",
-//   "foundation/components/dropdown",
-//   "foundation/components/dropdown-buttons",
-//   "foundation/components/flex-video",
+"foundation/components/button-groups",
+"foundation/components/buttons",
+"foundation/components/clearing",
+"foundation/components/dropdown",
+"foundation/components/dropdown-buttons",
+"foundation/components/flex-video",
 //   "foundation/components/forms",
-//   "foundation/components/grid",
-//   "foundation/components/inline-lists",
+"foundation/components/grid",
+"foundation/components/inline-lists",
 //   "foundation/components/joyride",
 //   "foundation/components/keystrokes",
 //   "foundation/components/labels",
-//   "foundation/components/magellan",
+"foundation/components/magellan",
 //   "foundation/components/orbit",
 //   "foundation/components/pagination",
 //   "foundation/components/panels",
 //   "foundation/components/pricing-tables",
 //   "foundation/components/progress-bars",
-//   "foundation/components/reveal",
+"foundation/components/reveal",
 //   "foundation/components/side-nav",
 //   "foundation/components/split-buttons",
 //   "foundation/components/secondary-nav",
@@ -34,10 +34,10 @@
 //   "foundation/components/tabs",
 //   "foundation/components/thumbs",
 //   "foundation/components/tooltips",
-//   "foundation/components/top-bar",
-//   "foundation/components/type",
+"foundation/components/top-bar",
+"foundation/components/type",
 //   "foundation/components/offcanvas",
-//   "foundation/components/visibility";
+"foundation/components/visibility";
 
 /* @import url(cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.css);*/
 img,
@@ -219,7 +219,7 @@ a:active {
   background-color: $tertiary-color !important;
   }*/
 
-.secondary-nav,
+.bottom-nav,
 .top-bar a {
   font-family: $font-family-sans-serif;
   font-weight: 100 !important;
@@ -233,7 +233,7 @@ a:active {
   text-align: center;
 }
 
-.secondary-nav {
+.bottom-nav {
   background-color: $secondary-color;
   padding: 1rem;
   padding-bottom: 0;
@@ -242,29 +242,29 @@ a:active {
   text-align: center;
 }
 
-.secondary-nav a {
+.bottom-nav a {
  color: #fff;
 }
 
-.secondary-nav ul {
+.bottom-nav ul {
   list-style-type: none !important;
 }
 
-.secondary-nav li {
+.bottom-nav li {
   display: block;
 }
 
-.secondary-nav a:hover {
+.bottom-nav a:hover {
   border-bottom: none;
   color: $neutral-color;
   background-color: $charcoal;
 }
 
-/*.secondary-nav ul li a {
+/*.bottom-nav ul li a {
   color: #fff !important;
   display: block;
 }
-.secondary-nav ul li a:hover {
+.bottom-nav ul li a:hover {
   color: #eee;
 }*/
 
@@ -323,22 +323,22 @@ a:active {
   color: #fff;
 }
 
-/*.secondary-navbar {
+/*.bottom-navbar {
     @include button($bg:$oil); border-bottom: 0;
 }
-  .secondary-navbar > li { @include button-group-style();
+  .bottom-navbar > li { @include button-group-style();
  }*/
 
 .button-group.stack-for-small > li .button {
   border: 0;
  }
 
-  .secondary-nav a {
+  .bottom-nav a {
    background-color: $oil;
    font-size: 80%;
   }
 
-  .secondary-nav a:hover {
+  .bottom-nav a:hover {
    background-color: $oil;
   }
 
@@ -741,10 +741,10 @@ p {
    margin-right: 0.5rem;
   }
 
-  .secondary-nav li {
+  .bottom-nav li {
 }
 
-.secondary-nav li a {
+.bottom-nav li a {
   text-align: center;
 }
 
