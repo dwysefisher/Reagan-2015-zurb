@@ -3898,6 +3898,83 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/event-berlin-wall.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12547,
+		"inputAbbreviatedPath": "\/img\/event-berlin-wall.jpg",
+		"outputAbbreviatedPath": "\/img\/event-berlin-wall.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/event-birthday-dinner.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7909,
+		"inputAbbreviatedPath": "\/img\/event-birthday-dinner.jpg",
+		"outputAbbreviatedPath": "\/img\/event-birthday-dinner.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/event-cShirley.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6657,
+		"inputAbbreviatedPath": "\/img\/event-cShirley.jpg",
+		"outputAbbreviatedPath": "\/img\/event-cShirley.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/event-fall-wall.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10784,
+		"inputAbbreviatedPath": "\/img\/event-fall-wall.jpg",
+		"outputAbbreviatedPath": "\/img\/event-fall-wall.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/event-jOwens.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8035,
+		"inputAbbreviatedPath": "\/img\/event-jOwens.jpg",
+		"outputAbbreviatedPath": "\/img\/event-jOwens.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/event-peace-garden.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13609,
+		"inputAbbreviatedPath": "\/img\/event-peace-garden.jpg",
+		"outputAbbreviatedPath": "\/img\/event-peace-garden.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/event-reagan-dinner-plates.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10247,
+		"inputAbbreviatedPath": "\/img\/event-reagan-dinner-plates.jpg",
+		"outputAbbreviatedPath": "\/img\/event-reagan-dinner-plates.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/fall-of-the-wall-header.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -4122,7 +4199,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 90837,
+		"initialSize": 112454,
 		"inputAbbreviatedPath": "\/img\/shenkman-ceremony.jpg",
 		"outputAbbreviatedPath": "\/img\/shenkman-ceremony.jpg",
 		"outputPathIsOutsideProject": 0,
