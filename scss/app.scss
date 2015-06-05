@@ -690,6 +690,7 @@ footer img {
     //    }*/
   .side-image {
    margin: 0;
+   background-color: $gainsboro;
    margin-bottom: -0.8em;
    -webkit-box-sizing: border-box;
       -moz-box-sizing: border-box;
@@ -730,7 +731,7 @@ p {
   display: inline-block;
   }
 
-  .navbar li a {
+ .navbar li a {
    margin-right: 0.5rem;
   }
 
@@ -795,6 +796,9 @@ p {
  .side-image {
   min-height: 30em;
  }
+ /*.top-bar-section ul li > a {
+   font-size: 14px;
+  }*/
 
 }
 
@@ -812,5 +816,22 @@ p {
  .secondary-navbar .button {
   padding: 0.5rem 1.5rem;
  }
+}
+
+@media only screen
+  and (orientation:portrait)
+   {
+  /*.top-bar-section li {
+   padding: 0 0.7rem;
+  }
+
+ .top-bar-section ul li > a {
+  font-size: 13px;
+ }*/
+.top-bar-section li a {
+   padding:0 0.4rem !important;
+   font-size: 12px !important;
+ }
+
 }
 // END TABLET-ONLY STYLING
