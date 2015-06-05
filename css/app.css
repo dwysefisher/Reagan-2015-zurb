@@ -3143,11 +3143,11 @@ meta.foundation-mq-topbar {
       padding: 12px 0 12px 0;
       padding-left: 0.9375rem;
       font-family: "adelle-sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
-      font-size: 0.9375rem;
+      font-size: 0.875rem;
       font-weight: normal;
       text-transform: uppercase; }
       .top-bar-section ul li > a.button {
-        font-size: 0.9375rem;
+        font-size: 0.875rem;
         padding-right: 0.9375rem;
         padding-left: 0.9375rem;
         background-color: #8b2332;
@@ -3190,7 +3190,7 @@ meta.foundation-mq-topbar {
         .top-bar-section ul li > a.button.warning:hover, .top-bar-section ul li > a.button.warning:focus {
           color: #FFFFFF; }
     .top-bar-section ul li > button {
-      font-size: 0.9375rem;
+      font-size: 0.875rem;
       padding-right: 0.9375rem;
       padding-left: 0.9375rem;
       background-color: #8b2332;
@@ -4740,6 +4740,7 @@ footer img {
 
   .side-image {
     margin: 0;
+    background-color: #DDDDDD;
     margin-bottom: -0.8em;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -4800,7 +4801,11 @@ footer img {
     padding: 1rem; }
 
   .side-image {
-    min-height: 30em; } }
+    min-height: 30em; }
+
+  /*.top-bar-section ul li > a {
+    font-size: 14px;
+   }*/ }
 @media only screen and (orientation: landscape) {
   .primary-caption {
     min-height: 13em !important; }
@@ -4810,3 +4815,14 @@ footer img {
 
   .secondary-navbar .button {
     padding: 0.5rem 1.5rem; } }
+@media only screen and (orientation: portrait) {
+  /*.top-bar-section li {
+   padding: 0 0.7rem;
+  }
+
+ .top-bar-section ul li > a {
+  font-size: 13px;
+ }*/
+  .top-bar-section li a {
+    padding: 0 0.4rem !important;
+    font-size: 12px !important; } }
