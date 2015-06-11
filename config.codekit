@@ -4096,6 +4096,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/reagan-flags-hero-1985.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89063,
+		"inputAbbreviatedPath": "\/img\/reagan-flags-hero-1985.jpg",
+		"outputAbbreviatedPath": "\/img\/reagan-flags-hero-1985.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/reagan-flags-hero.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -4199,7 +4210,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 90837,
+		"initialSize": 112454,
 		"inputAbbreviatedPath": "\/img\/shenkman-ceremony.jpg",
 		"outputAbbreviatedPath": "\/img\/shenkman-ceremony.jpg",
 		"outputPathIsOutsideProject": 0,
