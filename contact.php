@@ -39,11 +39,24 @@
     <div class="small-12 small-centered text-center medium-uncentered medium-5 columns">
       <a href="/" id="logo"><img src="img/RRS-logo-web-large.png" alt="The Ronald W. Reagan Society of Eureka College" title="The Ronald W. Reagan Society of Eureka College"></a>
     </div>
+
+    <div class="medium-7 large-6 right columns primary-buttons end">
+     <ul class="stack-for-small button-group small">
+      <li><a href="become-a-member.html" class="button responsive-button" role="button">Make a gift</a></li>
+      <li><a href="become-a-member.html" class="button responsive-button" role="button">Become a member</a></li>
+      <li><a href="#" class="button responsive-button" role="button">Member login</a></li>
+     </ul>
+    </div>
+   </div><!-- end buttons -->
+
+<br />
+
+    <!-- <div class="small-centered text-center medium-uncentered medium-4 large-3 right columns primary-buttons end">
+        <a href="become-a-member.html" class="button radius" role="button">Make a gift</a>
+        <h4 class="pull-3" style="text-align: right; margin-top: -1em;"><a href="#" class="" role=""><small>Member login</small></a></h4>
+    </div>
     <div class="small-centered text-center medium-uncentered medium-4 large-3 right columns primary-buttons end">
-        <a href="become-a-member.html" class="button radius" role="button">Become a member</a>
-        <!--<h4 class="pull-3" style="text-align: right; margin-top: -1em;"><a href="#" class="" role=""><small>Member login</small></a></h4>-->
-    </div><!-- end buttons -->
-  </div>
+        <a href="become-a-member.html" class="button radius" role="button">Become a member</a>-->
 
 </div> <!-- end contain-to-grid -->
 
