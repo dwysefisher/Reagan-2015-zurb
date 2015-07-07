@@ -328,7 +328,7 @@ a:active {
   //   }*/
 
 .button-group.stack-for-small > li .button {
-  border: 0;
+  border: 1px solid $neutral-color;
  }
 
   .bottom-nav a {
@@ -767,6 +767,11 @@ p {
 .photo-gallery {
  background-color: $neutral-color !important;
 }
+
+.responsive-button {
+     @include button($button-sml, $primary-color, 0px, false, false, false);
+}
+
 }
 
 // END TABLET & UP STYLING
