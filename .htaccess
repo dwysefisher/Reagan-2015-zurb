@@ -1,0 +1,7 @@
+<IfModule mod_rewrite.c>
+Options +FollowSymLinks
+RewriteEngine On
+RewriteRule ^society/give.htm?$ http://reagan.eureka.edu/ways-to-give.html [R=301,L]
+RewriteRule ^society/index.htm?$ http://reagan.eureka.edu [R=301,L]
+RewriteRule ^society?$ http://reagan.eureka.edu [R=301,L]
+</IFModule>
