@@ -104,7 +104,7 @@
 </header>
 
 <!-- <a href="#">Contact</a> -->
-
+<?php perch_content('Member'); ?>
 <div class="contain-to-grid">
 <div class="row">
   <div class="large-12 columns full-grid">
@@ -118,7 +118,7 @@
 
  <h3>Become a member today!</h3>
 
- <p>Welcome to the only membership of its kind in the nation, The Ronald W. Reagan Society of Eureka College. Our mission is to support the beloved alma mater of Ronald Reagan as a national beacon for the promise of American opportunity. We believe every individual has a right to discover his or her vision and voice in order to learn, serve and lead in the world. Working together, our support ensures the smallest college to ever graduate a President of the United States has the resources to stand tallest for the living legacy of Ronald Reagan. Thank you for making a difference! </p>
+ <p><perch:content id="become-a-member" type="text" label="Become a Member" />Welcome to the only membership of its kind in the nation, The Ronald W. Reagan Society of Eureka College. Our mission is to support the beloved alma mater of Ronald Reagan as a national beacon for the promise of American opportunity. We believe every individual has a right to discover his or her vision and voice in order to learn, serve and lead in the world. Working together, our support ensures the smallest college to ever graduate a President of the United States has the resources to stand tallest for the living legacy of Ronald Reagan. Thank you for making a difference! </p>
 
  <p>
   <a href="http://www.eureka.edu/reagan/reagan-society-membership/">Click here to make your gift</a>
