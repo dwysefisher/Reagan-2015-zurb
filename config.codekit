@@ -44,6 +44,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/become-a-member.php": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/become-a-member.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/bower.json": {
 		"fileType": 524288,
 		"ignore": 1,
@@ -4469,9 +4478,9 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/pages\/become-a-member.kit",
-		"outputAbbreviatedPath": "\/become-a-member.html",
+		"outputAbbreviatedPath": "\/become-a-member.php",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 1
 		},
 	"\/pages\/contact.kit": {
 		"fileType": 2048,
@@ -4596,6 +4605,3944 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/partials\/topbar.kit",
 		"outputAbbreviatedPath": "\/partials\/topbar.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/example.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/example.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/addons\/plugins\/editors\/markitup\/config.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/addons\/plugins\/editors\/markitup\/config.js",
+		"outputAbbreviatedPath": "\/perch_v2.8.8\/perch\/addons\/plugins\/editors\/markitup\/min\/config-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/perch_v2.8.8\/perch\/addons\/plugins\/editors\/markitup\/css\/markitup.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/addons\/plugins\/editors\/markitup\/css\/markitup.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/addons\/plugins\/editors\/markitup\/image_upload\/image_upload.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/addons\/plugins\/editors\/markitup\/image_upload\/image_upload.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/addons\/plugins\/editors\/markitup\/image_upload\/image_upload.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/addons\/plugins\/editors\/markitup\/image_upload\/image_upload.js",
+		"outputAbbreviatedPath": "\/perch_v2.8.8\/perch\/addons\/plugins\/editors\/markitup\/image_upload\/min\/image_upload-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/perch_v2.8.8\/perch\/addons\/plugins\/editors\/markitup\/image_upload\/image_upload.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/addons\/plugins\/editors\/markitup\/image_upload\/image_upload.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/addons\/plugins\/editors\/markitup\/jquery.markitup.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/addons\/plugins\/editors\/markitup\/jquery.markitup.js",
+		"outputAbbreviatedPath": "\/perch_v2.8.8\/perch\/addons\/plugins\/editors\/markitup\/min\/jquery.markitup-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/perch_v2.8.8\/perch\/config\/apps.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/config\/apps.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/config\/config.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/config\/config.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/config\/feathers.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/config\/feathers.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/account\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/account\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/account\/modes\/_subnav.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/account\/modes\/_subnav.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/account\/modes\/edit.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/account\/modes\/edit.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/account\/modes\/edit.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/account\/modes\/edit.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/admin.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/admin.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/async\/asset-filter.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/async\/asset-filter.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/async\/get-assets.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/async\/get-assets.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/async\/search.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/async\/search.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/async\/tags.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/async\/tags.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/delete\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/delete\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/edit\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/edit\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/_asset_grid.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/_asset_grid.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/_asset_list.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/_asset_list.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/_smart_bar.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/_smart_bar.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/_subnav.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/_subnav.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/delete.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/delete.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/delete.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/delete.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/edit.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/edit.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/edit.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/edit.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/list.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/list.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/list.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/list.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/reindex.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/reindex.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/reindex.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/reindex.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/tags.delete.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/tags.delete.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/tags.delete.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/tags.delete.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/tags.edit.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/tags.edit.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/tags.edit.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/tags.edit.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/tags.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/tags.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/tags.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/tags.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/upload.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/upload.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/upload.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/modes\/upload.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/PerchAssets_Asset.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/PerchAssets_Asset.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/PerchAssets_Assets.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/PerchAssets_Assets.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/PerchAssets_Display.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/PerchAssets_Display.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/PerchAssets_MetaData.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/PerchAssets_MetaData.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/PerchAssets_Tag.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/PerchAssets_Tag.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/PerchAssets_Tags.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/PerchAssets_Tags.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/reindex\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/reindex\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/tags\/delete\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/tags\/delete\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/tags\/edit\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/tags\/edit\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/tags\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/tags\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/assets\/upload\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/assets\/upload\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/categories\/admin.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/categories\/admin.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/categories\/delete\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/categories\/delete\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/categories\/delete\/set\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/categories\/delete\/set\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/categories\/edit\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/categories\/edit\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/categories\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/categories\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/categories\/modes\/_subnav.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/categories\/modes\/_subnav.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/categories\/modes\/cats.delete.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/categories\/modes\/cats.delete.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/categories\/modes\/cats.delete.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/categories\/modes\/cats.delete.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/categories\/modes\/cats.edit.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/categories\/modes\/cats.edit.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/categories\/modes\/cats.edit.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/categories\/modes\/cats.edit.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/categories\/modes\/cats.list.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/categories\/modes\/cats.list.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/categories\/modes\/cats.list.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/categories\/modes\/cats.list.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/categories\/modes\/cats.reorder.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/categories\/modes\/cats.reorder.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/categories\/modes\/cats.reorder.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/categories\/modes\/cats.reorder.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/categories\/modes\/sets.delete.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/categories\/modes\/sets.delete.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/categories\/modes\/sets.delete.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/categories\/modes\/sets.delete.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/categories\/modes\/sets.edit.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/categories\/modes\/sets.edit.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/categories\/modes\/sets.edit.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/categories\/modes\/sets.edit.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/categories\/modes\/sets.list.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/categories\/modes\/sets.list.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/categories\/modes\/sets.list.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/categories\/modes\/sets.list.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/categories\/PerchCategories_Categories.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/categories\/PerchCategories_Categories.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/categories\/PerchCategories_Category.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/categories\/PerchCategories_Category.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/categories\/PerchCategories_Set.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/categories\/PerchCategories_Set.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/categories\/PerchCategories_Sets.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/categories\/PerchCategories_Sets.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/categories\/reorder\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/categories\/reorder\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/categories\/runtime.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/categories\/runtime.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/categories\/sets\/delete\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/categories\/sets\/delete\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/categories\/sets\/edit\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/categories\/sets\/edit\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/categories\/sets\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/categories\/sets\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/admin.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/admin.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/collections\/edit\/block\/add\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/collections\/edit\/block\/add\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/collections\/edit\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/collections\/edit\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/collections\/edit\/options\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/collections\/edit\/options\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/collections\/import\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/collections\/import\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/collections\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/collections\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/collections\/options\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/collections\/options\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/dashboard.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/dashboard.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/delete\/collection\/item\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/delete\/collection\/item\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/delete\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/delete\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/delete\/item\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/delete\/item\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/edit\/block\/add\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/edit\/block\/add\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/edit\/denied\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/edit\/denied\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/edit\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/edit\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/manage\/collections\/delete\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/manage\/collections\/delete\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/manage\/collections\/edit\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/manage\/collections\/edit\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/manage\/collections\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/manage\/collections\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/_subnav.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/_subnav.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/block.async.add.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/block.async.add.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/block.async.add.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/block.async.add.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/delete.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/delete.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/delete.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/delete.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/edit.denied.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/edit.denied.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/edit.denied.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/edit.denied.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/edit.form.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/edit.form.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/edit.form.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/edit.form.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/edit.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/edit.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/edit.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/edit.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/list.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/list.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/list.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/list.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/nav.delete.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/nav.delete.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/nav.delete.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/nav.delete.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/nav.edit.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/nav.edit.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/nav.edit.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/nav.edit.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/nav.list.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/nav.list.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/nav.list.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/nav.list.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/nav.pages.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/nav.pages.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/nav.pages.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/nav.pages.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/nav.reorder.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/nav.reorder.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/nav.reorder.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/nav.reorder.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/page.add.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/page.add.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/page.add.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/page.add.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/page.delete.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/page.delete.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/page.delete.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/page.delete.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/page.details.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/page.details.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/page.details.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/page.details.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/page.edit.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/page.edit.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/page.edit.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/page.edit.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/page.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/page.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/page.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/page.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/page.reorder.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/page.reorder.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/page.reorder.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/page.reorder.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/page.republish.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/page.republish.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/page.republish.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/page.republish.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/region.define.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/region.define.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/region.define.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/region.define.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/region.delete.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/region.delete.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/region.delete.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/region.delete.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/region.itemlist.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/region.itemlist.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/region.itemlist.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/region.itemlist.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/region.options.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/region.options.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/region.options.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/region.options.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/region.reorder.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/region.reorder.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/region.reorder.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/region.reorder.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/template.delete.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/template.delete.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/template.delete.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/template.delete.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/template.edit.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/template.edit.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/template.edit.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/template.edit.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/template.list.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/template.list.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/template.list.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/modes\/template.list.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/navigation\/delete\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/navigation\/delete\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/navigation\/edit\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/navigation\/edit\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/navigation\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/navigation\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/navigation\/pages\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/navigation\/pages\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/navigation\/reorder\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/navigation\/reorder\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/options\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/options\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/page\/add\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/page\/add\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/page\/delete\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/page\/delete\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/page\/details\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/page\/details\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/page\/edit\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/page\/edit\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/page\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/page\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/page\/templates\/delete\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/page\/templates\/delete\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/page\/templates\/edit\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/page\/templates\/edit\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/page\/templates\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/page\/templates\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/PerchContent.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/PerchContent.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/PerchContent_Item.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/PerchContent_Item.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/PerchContent_Items.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/PerchContent_Items.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/PerchContent_NavGroup.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/PerchContent_NavGroup.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/PerchContent_NavGroups.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/PerchContent_NavGroups.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/PerchContent_Page.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/PerchContent_Page.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/PerchContent_Pages.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/PerchContent_Pages.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/PerchContent_PageTemplate.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/PerchContent_PageTemplate.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/PerchContent_PageTemplates.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/PerchContent_PageTemplates.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/PerchContent_Region.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/PerchContent_Region.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/PerchContent_Regions.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/PerchContent_Regions.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/PerchContent_SearchHandler.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/PerchContent_SearchHandler.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/PerchContent_Util.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/PerchContent_Util.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/reorder\/collection\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/reorder\/collection\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/reorder\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/reorder\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/reorder\/region\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/reorder\/region\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/republish\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/republish\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/revisions\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/revisions\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/revisions\/revert\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/revisions\/revert\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/routes\/delete\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/routes\/delete\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/routes\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/routes\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/routes\/reorder\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/routes\/reorder\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/apps\/content\/runtime.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/apps\/content\/runtime.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/css\/720.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/css\/720.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/css\/chosen.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/css\/chosen.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/css\/debug.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/css\/debug.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/css\/ie6.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/css\/ie6.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/css\/ie7.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/css\/ie7.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/css\/iebase.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/css\/iebase.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/css\/jquery.tagsinput.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/css\/jquery.tagsinput.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/css\/login.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/css\/login.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/css\/perch.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/css\/perch.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/css\/setup.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/css\/setup.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/img\/bg@1x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 113,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/img\/bg@1x.png",
+		"outputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/img\/bg@1x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/img\/bg@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 152,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/img\/bg@2x.png",
+		"outputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/img\/bg@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/img\/bgsb@1x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 98,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/img\/bgsb@1x.png",
+		"outputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/img\/bgsb@1x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/img\/bgsb@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 122,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/img\/bgsb@2x.png",
+		"outputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/img\/bgsb@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/img\/chosen-sprite.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 538,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/img\/chosen-sprite.png",
+		"outputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/img\/chosen-sprite.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/img\/chosen-sprite@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 738,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/img\/chosen-sprite@2x.png",
+		"outputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/img\/chosen-sprite@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/img\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7737,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/img\/logo.png",
+		"outputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/img\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/img\/perch.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 441,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/img\/perch.png",
+		"outputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/img\/perch.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/img\/sprites@1x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12687,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/img\/sprites@1x.png",
+		"outputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/img\/sprites@1x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/img\/sprites@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27962,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/img\/sprites@2x.png",
+		"outputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/img\/sprites@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/js\/categories.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/categories.js",
+		"outputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/min\/categories-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/js\/chosen.jquery.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/chosen.jquery.min.js",
+		"outputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/min\/chosen.jquery.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/js\/dropzone.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/dropzone.js",
+		"outputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/min\/dropzone-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/js\/handlebars.runtime.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/handlebars.runtime.js",
+		"outputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/min\/handlebars.runtime-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/js\/head.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/head.min.js",
+		"outputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/min\/head.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/js\/headroom.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/headroom.min.js",
+		"outputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/min\/headroom.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/js\/jquery-1.11.2.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/jquery-1.11.2.min.js",
+		"outputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/min\/jquery-1.11.2.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/js\/jquery-ui.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/jquery-ui.js",
+		"outputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/min\/jquery-ui-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/js\/jquery.form.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/jquery.form.min.js",
+		"outputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/min\/jquery.form.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/js\/jquery.slimscroll.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/jquery.slimscroll.min.js",
+		"outputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/min\/jquery.slimscroll.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/js\/jquery.tagsinput.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/jquery.tagsinput.min.js",
+		"outputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/min\/jquery.tagsinput.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/js\/jquery.ui.nestedSortable.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/jquery.ui.nestedSortable.js",
+		"outputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/min\/jquery.ui.nestedSortable-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/js\/maps.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/maps.js",
+		"outputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/min\/maps-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/js\/perch.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/perch.min.js",
+		"outputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/min\/perch.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/js\/public_helper.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/public_helper.js",
+		"outputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/min\/public_helper-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/js\/public_maps.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/public_maps.js",
+		"outputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/min\/public_maps-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/js\/public_maps.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/public_maps.min.js",
+		"outputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/min\/public_maps.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/js\/slugs.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/slugs.js",
+		"outputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/min\/slugs-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/js\/spin.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/spin.min.js",
+		"outputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/min\/spin.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/perch_v2.8.8\/perch\/core\/assets\/js\/templates.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/templates.js",
+		"outputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/assets\/js\/min\/templates-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/perch_v2.8.8\/perch\/core\/async\/urlify.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/async\/urlify.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/dashboard\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/dashboard\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/dashboard\/modes\/dash.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/dashboard\/modes\/dash.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/dashboard\/modes\/dash.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/dashboard\/modes\/dash.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/emails\/password-reset.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/emails\/password-reset.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/emails\/settings-test.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/emails\/settings-test.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/emails\/user-welcome.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/emails\/user-welcome.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/error\/db.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/error\/db.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/help\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/help\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/help\/markdown\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/help\/markdown\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/help\/modes\/_subnav.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/help\/modes\/_subnav.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/help\/modes\/help.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/help\/modes\/help.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/help\/modes\/help.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/help\/modes\/help.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/help\/modes\/markdown.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/help\/modes\/markdown.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/help\/modes\/markdown.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/help\/modes\/markdown.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/help\/modes\/textile.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/help\/modes\/textile.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/help\/modes\/textile.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/help\/modes\/textile.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/help\/textile\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/help\/textile\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/inc\/api.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/inc\/api.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/inc\/apps.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/inc\/apps.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/inc\/auth.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/inc\/auth.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/inc\/auth_light.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/inc\/auth_light.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/inc\/btm.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/inc\/btm.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/inc\/feathers.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/inc\/feathers.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/inc\/forms.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/inc\/forms.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/inc\/js_lang.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/inc\/js_lang.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/inc\/js_privs.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/inc\/js_privs.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/inc\/keepalive.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/inc\/keepalive.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/inc\/loader.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/inc\/loader.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/inc\/main_end.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/inc\/main_end.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/inc\/main_start.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/inc\/main_start.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/inc\/pre_config.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/inc\/pre_config.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/inc\/sidebar_end.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/inc\/sidebar_end.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/inc\/sidebar_start.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/inc\/sidebar_start.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/inc\/top.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/inc\/top.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_AuthPlugin.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_AuthPlugin.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_Base.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_Base.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_Email.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_Email.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_Factory.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_Factory.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_FieldType.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_FieldType.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_Form.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_Form.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_HTML.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_HTML.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_Image.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_Image.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_Lang.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_Lang.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_Paging.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_Paging.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_Resources.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_Resources.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_SearchHandler.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_SearchHandler.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_Settings.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_Settings.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_SubmittedForm.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_SubmittedForm.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_Template.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_Template.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_TemplateHandler.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_TemplateHandler.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_Text.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_Text.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_UserPrivileges.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/api\/PerchAPI_UserPrivileges.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/ParsedownExtra.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/ParsedownExtra.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PasswordHash.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PasswordHash.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/Perch.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/Perch.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchAdmin.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchAdmin.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchAlert.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchAlert.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchApp.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchApp.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchAssetFile.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchAssetFile.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchAuthenticatedUser.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchAuthenticatedUser.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchBase.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchBase.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchDB.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchDB.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchDB_MySQL.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchDB_MySQL.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchDB_MySQLi.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchDB_MySQLi.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchEmail.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchEmail.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchFactory.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchFactory.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchFeather.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchFeather.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchFieldType.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchFieldType.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchFieldTypes.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchFieldTypes.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchForm.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchForm.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchImage.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchImage.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchLang.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchLang.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchLogicString.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchLogicString.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchPaging.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchPaging.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchQuery.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchQuery.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchRepeater.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchRepeater.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchResource.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchResource.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchResourceBucket.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchResourceBucket.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchResourceBuckets.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchResourceBuckets.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchResources.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchResources.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchScheduledTask.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchScheduledTask.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchScheduledTasks.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchScheduledTasks.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchSession.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchSession.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchSetting.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchSetting.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchSettings.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchSettings.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchSystem.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchSystem.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchSystemEvent.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchSystemEvent.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchTemplate.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchTemplate.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchTemplatedForm.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchTemplatedForm.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchUser.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchUser.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchUserPrivilege.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchUserPrivilege.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchUserPrivileges.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchUserPrivileges.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchUserRole.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchUserRole.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchUserRoles.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchUserRoles.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchUsers.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchUsers.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchUtil.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchUtil.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PerchXMLTag.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PerchXMLTag.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/PHPMailer.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/PHPMailer.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/SmartyPants.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/SmartyPants.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/lib\/Textile.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/lib\/Textile.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/reset\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/reset\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/runtime\/loader.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/runtime\/loader.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/runtime\/runtime.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/runtime\/runtime.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/scheduled\/run.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/scheduled\/run.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/settings\/backup\/delete\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/settings\/backup\/delete\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/settings\/backup\/edit\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/settings\/backup\/edit\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/settings\/backup\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/settings\/backup\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/settings\/backup\/restore\/general\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/settings\/backup\/restore\/general\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/settings\/backup\/restore\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/settings\/backup\/restore\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/settings\/diagnostics\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/settings\/diagnostics\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/settings\/email\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/settings\/email\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/settings\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/settings\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/settings\/modes\/_app_settings.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/settings\/modes\/_app_settings.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/settings\/modes\/_app_settings.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/settings\/modes\/_app_settings.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/settings\/modes\/_subnav.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/settings\/modes\/_subnav.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/settings\/modes\/basic.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/settings\/modes\/basic.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/settings\/modes\/basic.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/settings\/modes\/basic.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/settings\/modes\/diagnostics.extended.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/settings\/modes\/diagnostics.extended.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/settings\/modes\/diagnostics.extended.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/settings\/modes\/diagnostics.extended.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/settings\/modes\/diagnostics.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/settings\/modes\/diagnostics.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/settings\/modes\/diagnostics.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/settings\/modes\/diagnostics.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/settings\/modes\/email.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/settings\/modes\/email.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/settings\/modes\/email.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/settings\/modes\/email.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/settings\/modes\/tasks.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/settings\/modes\/tasks.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/settings\/modes\/tasks.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/settings\/modes\/tasks.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/settings\/tasks\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/settings\/tasks\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/templates\/search\/search-result.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/templates\/search\/search-result.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/update\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/update\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/update\/scripts\/2.1.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/update\/scripts\/2.1.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/update\/scripts\/2.5.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/update\/scripts\/2.5.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/update\/scripts\/2.7.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/update\/scripts\/2.7.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/users\/add\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/users\/add\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/users\/delete\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/users\/delete\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/users\/edit\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/users\/edit\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/users\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/users\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/users\/modes\/_subnav.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/users\/modes\/_subnav.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/users\/modes\/add.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/users\/modes\/add.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/users\/modes\/add.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/users\/modes\/add.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/users\/modes\/delete.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/users\/modes\/delete.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/users\/modes\/delete.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/users\/modes\/delete.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/users\/modes\/edit.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/users\/modes\/edit.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/users\/modes\/edit.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/users\/modes\/edit.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/users\/modes\/list.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/users\/modes\/list.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/users\/modes\/list.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/users\/modes\/list.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/users\/modes\/roles.actions.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/users\/modes\/roles.actions.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/users\/modes\/roles.actions.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/users\/modes\/roles.actions.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/users\/modes\/roles.delete.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/users\/modes\/roles.delete.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/users\/modes\/roles.delete.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/users\/modes\/roles.delete.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/users\/modes\/roles.edit.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/users\/modes\/roles.edit.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/users\/modes\/roles.edit.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/users\/modes\/roles.edit.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/users\/modes\/roles.list.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/users\/modes\/roles.list.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/users\/modes\/roles.list.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/users\/modes\/roles.list.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/users\/roles\/actions\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/users\/roles\/actions\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/users\/roles\/delete\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/users\/roles\/delete\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/users\/roles\/edit\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/users\/roles\/edit\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/core\/users\/roles\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/core\/users\/roles\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/runtime.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/runtime.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/setup\/btm.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/setup\/btm.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/setup\/config.sample.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/setup\/config.sample.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/setup\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/setup\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/setup\/modes\/configfile.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/setup\/modes\/configfile.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/setup\/modes\/configfile.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/setup\/modes\/configfile.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/setup\/modes\/gather.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/setup\/modes\/gather.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/setup\/modes\/gather.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/setup\/modes\/gather.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/setup\/modes\/install.post.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/setup\/modes\/install.post.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/setup\/modes\/install.pre.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/setup\/modes\/install.pre.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/setup\/top.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/setup\/top.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/templates\/categories\/category.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/templates\/categories\/category.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/templates\/categories\/set.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/templates\/categories\/set.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/templates\/content\/article.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/templates\/content\/article.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/templates\/content\/code_block.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/templates\/content\/code_block.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/templates\/content\/file.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/templates\/content\/file.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/templates\/content\/google_analytics.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/templates\/content\/google_analytics.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/templates\/content\/image.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/templates\/content\/image.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/templates\/content\/map.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/templates\/content\/map.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/templates\/content\/text.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/templates\/content\/text.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/templates\/content\/text_block.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/templates\/content\/text_block.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/templates\/navigation\/breadcrumbs.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/templates\/navigation\/breadcrumbs.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/templates\/navigation\/item.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/templates\/navigation\/item.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/templates\/pages\/attributes\/default.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/templates\/pages\/attributes\/default.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/templates\/pages\/attributes\/seo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/templates\/pages\/attributes\/seo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/templates\/pages\/default.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/templates\/pages\/default.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/templates\/pagination\/default.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/templates\/pagination\/default.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/templates\/pagination\/page-links.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/templates\/pagination\/page-links.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/templates\/search\/search-form.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/templates\/search\/search-form.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/perch\/templates\/search\/search-result.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/perch\/templates\/search\/search-result.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perch_v2.8.8\/search.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perch_v2.8.8\/search.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perchtest\/assets\/compat.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perchtest\/assets\/compat.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perchtest\/assets\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3829,
+		"inputAbbreviatedPath": "\/perchtest\/assets\/logo.png",
+		"outputAbbreviatedPath": "\/perchtest\/assets\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/perchtest\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perchtest\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perchtest\/lib\/PerchDB.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perchtest\/lib\/PerchDB.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perchtest\/lib\/PerchDB_MySQL.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perchtest\/lib\/PerchDB_MySQL.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perchtest\/lib\/PerchDB_MySQLi.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perchtest\/lib\/PerchDB_MySQLi.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perchtest\/pass.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perchtest\/pass.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perchtest\/step1.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perchtest\/step1.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/perchtest\/step2.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/perchtest\/step2.php",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
