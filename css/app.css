@@ -4485,7 +4485,8 @@ a:active {
   color: #fff; }
 
 .button-group.stack-for-small > li .button {
-  border: 1px solid #e2d0a6; }
+  /*border: 1px solid $neutral-color;*/
+  border: none; }
 
 .bottom-nav a {
   background-color: #333333;
