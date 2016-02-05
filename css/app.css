@@ -60,7 +60,7 @@ body {
   color: #222;
   padding: 0;
   margin: 0;
-  font-family: "adelle-sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-family: "Lato", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   font-weight: normal;
   font-style: normal;
   line-height: 1.5;
@@ -135,7 +135,7 @@ select {
       color: #222222;
       padding: 1rem;
       display: block;
-      font-family: "adelle-sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+      font-family: "Lato", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
       font-size: 1rem; }
       .accordion .accordion-navigation > a:hover, .accordion dd > a:hover {
         background: #ddc897; }
@@ -453,7 +453,7 @@ button, .button {
   border-style: solid;
   border-width: 0;
   cursor: pointer;
-  font-family: "adelle-sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-family: "Lato", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   font-weight: normal;
   line-height: normal;
   margin: 0 0 1.25rem;
@@ -2879,7 +2879,7 @@ select {
   border-color: #cccccc;
   padding: 0.5rem;
   font-size: 0.875rem;
-  font-family: "adelle-sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-family: "Lato", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   color: rgba(0, 0, 0, 0.75);
   line-height: normal;
   border-radius: 0;
@@ -3142,7 +3142,7 @@ meta.foundation-mq-topbar {
       color: #FFFFFF;
       padding: 12px 0 12px 0;
       padding-left: 0.9375rem;
-      font-family: "adelle-sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+      font-family: "Lato", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
       font-size: 0.875rem;
       font-weight: normal;
       text-transform: uppercase; }
@@ -3677,7 +3677,7 @@ p {
 
 /* Default header styles */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "adelle-sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-family: "Lato", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   font-weight: normal;
   font-style: normal;
   color: #222222;
@@ -4313,7 +4313,7 @@ video {
   max-width: 100%; }
 
 body {
-  font-family: "calluna", Georgia, serif;
+  font-family: "PT Serif", Georgia, Cambria, "Times New Roman", Times, serif;
   line-height: 1.625;
   font-size: 1.25rem;
   color: #333;
@@ -4400,13 +4400,13 @@ a:active {
   background-color: #00005c; }
 
 .top-bar .toggle-topbar.menu-icon a {
-  font-family: "adelle-sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-family: "Lato", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   text-transform: uppercase; }
 
 .bottom-nav,
 .top-bar a {
-  font-family: "adelle-sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
-  font-weight: 100 !important;
+  font-family: "Lato", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-weight: 300 !important;
   letter-spacing: 0.1rem;
   text-transform: uppercase; }
 
@@ -4511,7 +4511,7 @@ a:active {
   width: auto !important; }
 
 .clearing-caption {
-  font-family: "adelle", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   font-weight: 100; }
 
 h1,
@@ -4627,7 +4627,7 @@ blockquote .quote:after {
   text-align: left; }
 
 .label {
-  font-family: "adelle-sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; }
+  font-family: "Lato", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; }
 
 figure {
   padding: 0 !important;
@@ -4791,7 +4791,7 @@ footer img {
     border-style: solid;
     border-width: 0;
     cursor: pointer;
-    font-family: "adelle-sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    font-family: "Lato", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
     font-weight: normal;
     line-height: normal;
     margin: 0 0 1.25rem;

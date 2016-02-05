@@ -47,7 +47,7 @@ video, { max-width: 100%; }
 
 
 body {
- font-family: "calluna", Georgia, serif;
+ font-family:  $font-family-serif;
  line-height: 1.625;
  font-size:1.25rem;
  color:#333;
@@ -93,41 +93,6 @@ a:active {
   border-bottom: 1px solid $primary-color;
   color: $primary-color;
 }
-
-//* @font-face {
-//  font-family: '[set]Foundicons';
-//  src: url('fonts/[set]_foundicons.eot');
-//  src: url('fonts/[set]_foundicons.eot?#iefix') format('embedded-opentype'),
-//  url('fonts/[set]_foundicons.woff') format('woff'),
-//  url('fonts/[set]_foundicons.ttf') format('truetype'),
-//  url('fonts/[set]_foundicons.svg#[set]Foundicons') format('svg');
-//  font-weight: normal;
-//  font-style: normal;
-//  }
-
-//  [class*="foundicon-"] {
-//    display: inline;
-//    width: auto;
-//    height: auto;
-//    line-height: inherit;
-//    vertical-align: baseline;
-//    background-image: none;
-//    background-position: 0 0;
-//    background-repeat: repeat;}
-
-//  [class*="foundicon-"]:before {
-//    font-family: "[set]Foundicons";
-//    font-weight: normal;
-//    font-style: normal;
-//    text-decoration: inherit;}*/
-
-//  /*#head-wrapper {background: url() no-repeat; margin: 0 auto; overflow: visible; width: 100%; background-color: $primary-color; padding: 0.25em; text-align: center; margin-bottom: 1rem;}
-
-//  #head-wrapper h2 {text-indent: -9999px;}
-
-//  #head-wrapper a {text-decoration: none; color: #FFF; border-bottom: none;}*/
-
-//  /*.name {padding: 1em auto; height: 300px; } */
 
 #ec-logo-wrapper {
     width: 100%;
@@ -220,7 +185,7 @@ a:active {
 .bottom-nav,
 .top-bar a {
   font-family: $font-family-sans-serif;
-  font-weight: 100 !important;
+  font-weight: 300 !important;
   letter-spacing: 0.1rem;
   text-transform:uppercase;
 }
