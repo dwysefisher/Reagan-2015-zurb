@@ -3775,6 +3775,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/img\/american-opportunity-index.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39960,
+		"inputAbbreviatedPath": "\/img\/american-opportunity-index.jpg",
+		"outputAbbreviatedPath": "\/img\/american-opportunity-index.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/basketball-fathead.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
