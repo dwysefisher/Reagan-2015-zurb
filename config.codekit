@@ -3896,6 +3896,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/campus-snow-flag.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 185273,
+		"inputAbbreviatedPath": "\/img\/campus-snow-flag.jpg",
+		"outputAbbreviatedPath": "\/img\/campus-snow-flag.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/craig-barbara-barrett.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3973,6 +3984,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/event-ge-theater-web.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4809,
+		"inputAbbreviatedPath": "\/img\/event-ge-theater-web.jpg",
+		"outputAbbreviatedPath": "\/img\/event-ge-theater-web.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/event-jOwens.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3980,6 +4002,17 @@
 		"initialSize": 8035,
 		"inputAbbreviatedPath": "\/img\/event-jOwens.jpg",
 		"outputAbbreviatedPath": "\/img\/event-jOwens.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/event-oconnor.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5531,
+		"inputAbbreviatedPath": "\/img\/event-oconnor.jpg",
+		"outputAbbreviatedPath": "\/img\/event-oconnor.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4002,6 +4035,17 @@
 		"initialSize": 10247,
 		"inputAbbreviatedPath": "\/img\/event-reagan-dinner-plates.jpg",
 		"outputAbbreviatedPath": "\/img\/event-reagan-dinner-plates.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/event-reagan-leadership.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5513,
+		"inputAbbreviatedPath": "\/img\/event-reagan-leadership.jpg",
+		"outputAbbreviatedPath": "\/img\/event-reagan-leadership.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4116,6 +4160,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/profile-eRollins-web.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9830,
+		"inputAbbreviatedPath": "\/img\/profile-eRollins-web.jpg",
+		"outputAbbreviatedPath": "\/img\/profile-eRollins-web.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/reagan-1992-ivy.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -4178,6 +4233,17 @@
 		"initialSize": 103910,
 		"inputAbbreviatedPath": "\/img\/reagan-garden-banner-lg.jpg",
 		"outputAbbreviatedPath": "\/img\/reagan-garden-banner-lg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/reagan-presidential-toast.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28172,
+		"inputAbbreviatedPath": "\/img\/reagan-presidential-toast.jpg",
+		"outputAbbreviatedPath": "\/img\/reagan-presidential-toast.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -9001,7 +9067,7 @@
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
 	"displayValue": "Reagan-zurb",
-	"displayValueWasSetByUser": 0,
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "globe_blue"
 	},
 "projectSettings": {
