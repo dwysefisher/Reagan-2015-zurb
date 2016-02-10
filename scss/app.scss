@@ -161,6 +161,14 @@ a:active {
  margin-bottom: 2rem;
 }
 
+.clearfix:after {
+   content: ".";
+   visibility: hidden;
+   display: block;
+   height: 0;
+   clear: both;
+}
+
 // Navigation
 // - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -501,6 +509,10 @@ figure {
  width:35%;
  padding-left: 1rem;}
 
+ .event img {
+  margin-bottom:2em;
+ }
+
 // Footer
 // - - - - - - - - - - - - - - - - - - - - - - - - -
 #footer {
@@ -619,6 +631,10 @@ footer img {
   padding-right: 2.5%;
   margin-right: 0;
   clear: both;
+}
+
+.event p {
+ font-size: 80%;
 }
 
 
