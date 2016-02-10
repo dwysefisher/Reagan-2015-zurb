@@ -4395,6 +4395,13 @@ a:active {
   padding: 5em 0;
   margin-bottom: 2rem; }
 
+.clearfix:after {
+  content: ".";
+  visibility: hidden;
+  display: block;
+  height: 0;
+  clear: both; }
+
 .top-bar {
   margin-bottom: 1rem;
   background-color: #00005c; }
@@ -4646,6 +4653,9 @@ figure {
   width: 35%;
   padding-left: 1rem; }
 
+.event img {
+  margin-bottom: 2em; }
+
 #footer {
   background-color: #DDDDDD;
   margin-top: 2rem;
@@ -4723,6 +4733,9 @@ footer img {
     padding-right: 2.5%;
     margin-right: 0;
     clear: both; }
+
+  .event p {
+    font-size: 80%; }
 
   .figure {
     -webkit-box-sizing: border-box;
