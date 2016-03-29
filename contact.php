@@ -305,7 +305,7 @@ if($_POST["message"]) {
   <i class="fa fa-2x fa-arrow-circle-o-up"></i>
  </span>
 </div>
-
+</div>
 <!-- Footer -->
 <footer id="footer">
   <div class="row">
